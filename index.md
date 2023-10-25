@@ -15,8 +15,8 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: About
-          description: Important highlight A is important
-          url: https://google.com
+          description: The GeospatialSG Programme
+          url: /about/geospatialsg
         - title: Initiatives
           description: Important highlight B is equally important
           url: https://gmail.com
