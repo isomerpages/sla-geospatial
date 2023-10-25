@@ -55,4 +55,11 @@ sections:
       description: Systems and Apps link back-end database processes and front-end map
         functions to deliver geospatial services.
       alt: Image alt text
+  - infopic:
+      title: Modelling and Analysis
+      subtitle: The Geospatial Spectrum
+      id: infopic
+      description: Geospatial modelling and analytics tools allow users to discover
+        insights from geospatial data for enhanced decision making.
+      alt: Image alt text
 ---
