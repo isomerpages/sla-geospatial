@@ -33,14 +33,11 @@ sections:
         "where" element for enhanced communication and optimization in our Smart
         Nation.
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Mapping and Remote Sensing
+      subtitle: The Geospatial Spectrum
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Satellites and sensors collect raw geospatial data about the
+        Earth's surface, providing content for geospatial products and services.
       alt: Image alt text
-  - resources:
-      title: Resources
-      subtitle: Add a preview and link to your Resource Room
-      id: resources
+      image: /images/geospatial spectrum_1.jpeg
 ---
