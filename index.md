@@ -40,4 +40,10 @@ sections:
         Earth's surface, providing content for geospatial products and services.
       alt: Image alt text
       image: /images/geospatial spectrum 1.jfif
+  - infopic:
+      title: Data and Database Management
+      subtitle: The Geospatial Spectrum
+      id: infopic
+      description: Geospatial databases provide a systematic way to create, retrieve,
+        update and manage geospatial data.
 ---
