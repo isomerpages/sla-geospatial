@@ -29,8 +29,9 @@ sections:
   - infobar:
       title: GEOSPATIAL
       subtitle: The Location of Things
-      description: Geospatial info is location data on a map. It adds the "where"
-        element for better communication and optimization in our Smart Nation.
+      description: Geospatial information is "locational" data on a map. It adds the
+        "where" element for enhanced communication and optimization in our Smart
+        Nation.
   - infopic:
       title: Infopic
       subtitle: Add an image and text
