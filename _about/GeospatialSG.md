@@ -12,3 +12,7 @@ In 2018, SG-SPACE was reconceptualized to Geospatial Singapore (GeospatialSG), s
 The GeospatialSG programme is co-driven by the Singapore Land Authority (SLA) and the Government Technology Agency of Singapore (GovTech), and the programme reports to the Government Data Steering Committee overseen by the Smart Nation and Digital Government Office.
 
 Get involved in GeospatialSG and the implementation of its initiatives by contacting us: [geoworks@sla.gov.sg](mailto:geoworks@sla.gov.sg)
+
+### GeospatialSG Leads Singapore's Geospatial Development
+
+SLA and GovTech have been playing an active role in driving the nation's geospatial development
