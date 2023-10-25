@@ -1,8 +1,8 @@
 logo: /images/geospatialsg logo.jfif
 links:
+  - title: About
+    collection: example-folder
+  - title: Events
+    url: /example-page/
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
