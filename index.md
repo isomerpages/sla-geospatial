@@ -39,5 +39,5 @@ sections:
       description: Satellites and sensors collect raw geospatial data about the
         Earth's surface, providing content for geospatial products and services.
       alt: Image alt text
-      image: /images/geospatial spectrum_1.jpeg
+      image: /images/geospatial spectrum 1.jfif
 ---
