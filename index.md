@@ -63,4 +63,5 @@ sections:
       description: Geospatial modelling and analytics tools allow users to discover
         insights from geospatial data for enhanced decision making.
       alt: Image alt text
+      image: /images/analysis.jpeg
 ---
