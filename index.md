@@ -18,14 +18,14 @@ sections:
           description: The GeospatialSG Programme
           url: /about/geospatialsg
         - title: Initiatives
-          description: Important highlight B is equally important
-          url: https://gmail.com
+          description: Geospatial Master Plan
+          url: /initiatives
         - title: Resources
-          description: Key Highlight description
-          url: ""
+          description: Career & Education
+          url: /resources
         - title: Events
-          description: Page A is important too
-          url: /privacy/
+          description: Upcoming Events
+          url: /events/
   - infobar:
       title: GEOSPATIAL
       subtitle: The Location of Things
