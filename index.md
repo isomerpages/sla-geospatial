@@ -38,6 +38,7 @@ sections:
       id: infopic
       description: Satellites and sensors collect raw geospatial data about the
         Earth's surface, providing content for geospatial products and services.
+      alt: Satellite
       image: /images/geospatial spectrum 1.jfif
   - infopic:
       title: Data and Database Management
