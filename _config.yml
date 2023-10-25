@@ -1,5 +1,5 @@
-title: Title
-url: ""
+title: GeospatialSG
+url: https://www.geospatial.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#6031b6"
@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government
+description: ""
 permalink: none
 baseurl: ""
 exclude:
@@ -53,3 +53,7 @@ staging: https://staging.d24chp0u34zd4a.amplifyapp.com
 prod: https://master.d24chp0u34zd4a.amplifyapp.com
 facebook-pixel: ""
 resources_name: the-geospatial-spectrum
+shareicon: /images/isomer-logo.svg
+is_government: false
+google_analytics_ga4: ""
+linkedin-insights: ""
