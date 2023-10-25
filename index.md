@@ -45,4 +45,5 @@ sections:
       id: infopic
       description: Geospatial databases provide a systematic way to create, retrieve,
         update and manage geospatial data.
+      image: /images/geospatial spectrum 2.jfif
 ---
