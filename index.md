@@ -46,4 +46,11 @@ sections:
       description: Geospatial databases provide a systematic way to create, retrieve,
         update and manage geospatial data.
       image: /images/geospatial spectrum 2.jfif
+  - infopic:
+      title: Systems and Applications
+      subtitle: The Geospatial Spectrum
+      id: infopic
+      description: Systems and Apps link back-end database processes and front-end map
+        functions to deliver geospatial services.
+      alt: Image alt text
 ---
