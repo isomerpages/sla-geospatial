@@ -2,6 +2,6 @@ collections:
   initiatives:
     output: true
     order:
-      - GeoChallenges.md
       - Geospatial Master Plan.md
       - GeoWorks.md
+      - GeoChallenges.md
