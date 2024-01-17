@@ -2,4 +2,5 @@ collections:
   initiatives:
     output: true
     order:
+      - GeoWorks.md
       - Geospatial Master Plan.md
