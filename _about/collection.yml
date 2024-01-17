@@ -1,5 +1,0 @@
-collections:
-  about:
-    output: true
-    order:
-      - GeospatialSG.md
