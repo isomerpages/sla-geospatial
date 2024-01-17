@@ -1,6 +1,8 @@
 logo: /images/geospatialsg logo.jfif
 links:
   - title: About
+    url: /about
+  - title: About
     collection: about
   - title: Initiatives
     url: /initiatives
