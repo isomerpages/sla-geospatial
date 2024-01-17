@@ -1,0 +1,4 @@
+collections:
+  opportunities:
+    output: true
+    order: []
