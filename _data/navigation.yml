@@ -2,7 +2,13 @@ logo: /images/geospatialsg logo.jfif
 links:
   - title: About
     collection: about
+  - title: Initiatives
+    url: /initiatives
+  - title: Opportunities
+    url: /opportunities
   - title: Events
     url: /example-page/
+  - title: Resources
+    url: /resources
   - title: Contact Us
     url: /contact-us/
