@@ -1,4 +1,5 @@
 collections:
   initiatives:
     output: true
-    order: []
+    order:
+      - Geospatial Master Plan.md
