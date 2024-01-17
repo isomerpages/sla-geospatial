@@ -7,25 +7,27 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: GeospatialSG
-      subtitle: Co-Driven by the Singapore Land Authority and the Government
-        Technology Agency of Singapore
+      title: Geospatial SG
+      subtitle: A Whole-of-Government (WOG) Initiative
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: About
-          description: The GeospatialSG Programme
-          url: /about/geospatialsg
         - title: Initiatives
           description: Geospatial Master Plan
           url: /initiatives
-        - title: Resources
+        - title: Opportunities
           description: Career & Education
+          url: /opportunities
+        - title: Resources
+          description: News & Links
           url: /resources
         - title: Events
           description: Upcoming Events
           url: /events/
+      variant: center
+      backgroundColor: white
+      size: md
   - infobar:
       title: GEOSPATIAL
       subtitle: The Location of Things
@@ -39,14 +41,14 @@ sections:
       description: Satellites and sensors collect raw geospatial data about the
         Earth's surface, providing content for geospatial products and services.
       alt: Satellite
-      image: /images/geospatial spectrum 1.jfif
+      image: /images/download.jpg
   - infopic:
       title: Data and Database Management
       subtitle: The Geospatial Spectrum
       id: infopic
       description: Geospatial databases provide a systematic way to create, retrieve,
         update and manage geospatial data.
-      image: /images/geospatial spectrum_2.jfif
+      image: /images/download__1_.jpg
       alt: Databases
   - infopic:
       title: Systems and Applications
@@ -64,4 +66,19 @@ sections:
         insights from geospatial data for enhanced decision making.
       alt: Image alt text
       image: /images/analysis.jpeg
+  - textcards:
+      title: GLOBAL GEOSPATIAL DEVELOPMENTS
+      id: textcards
+      cards:
+        - title: UN Global Geospatial Information Management
+          description: The UN-GGIM sets the agenda for global geospatial information
+            development.
+          linktext: Learn more
+          url: https://ggim.un.org/
+        - title: World Bank Group
+          description: >
+            World Bank projects help cities use geospatial data for sustainable
+            planning.
+          linktext: Global Platform for Sustainable Cities
+          url: https://www.thegpsc.org/
 ---
