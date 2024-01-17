@@ -3,7 +3,7 @@ links:
   - title: About
     url: /about
   - title: Initiatives
-    url: /initiatives
+    collection: initiatives
   - title: Opportunities
     url: /opportunities
   - title: Events
