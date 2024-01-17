@@ -54,6 +54,6 @@ prod: https://master.d24chp0u34zd4a.amplifyapp.com
 facebook-pixel: ""
 resources_name: the-geospatial-spectrum
 shareicon: /images/isomer-logo.svg
-is_government: false
+is_government: true
 google_analytics_ga4: ""
 linkedin-insights: ""
