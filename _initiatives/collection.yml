@@ -1,0 +1,4 @@
+collections:
+  initiatives:
+    output: true
+    order: []
