@@ -16,9 +16,9 @@ locations:
     title: Main Office
 contacts:
   - content:
-      - phone: +65 6323 9829
+      - phone: ""
       - email: geoworks@sla.gov.sg
       - other: ""
-    title: General Enquiries & Feedback
+    title: General Enquiries
 feedback: ""
 ---
