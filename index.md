@@ -15,10 +15,10 @@ sections:
       key_highlights:
         - title: Initiatives
           description: Geospatial Master Plan
-          url: /initiatives
+          url: /initiatives/masterplan
         - title: Opportunities
           description: Career & Education
-          url: /opportunities
+          url: /opportunities/careers
         - title: Resources
           description: News & Links
           url: /resources
@@ -26,8 +26,8 @@ sections:
           description: Upcoming Events
           url: /events/
       variant: center
-      backgroundColor: white
-      size: md
+      backgroundColor: gray
+      size: sm
   - infobar:
       title: GEOSPATIAL
       subtitle: The Location of Things
@@ -76,8 +76,7 @@ sections:
           linktext: Learn more
           url: https://ggim.un.org/
         - title: World Bank Group
-          description: >
-            World Bank projects help cities use geospatial data for sustainable
+          description: World Bank projects help cities use geospatial data for sustainable
             planning.
           linktext: Global Platform for Sustainable Cities
           url: https://www.thegpsc.org/
