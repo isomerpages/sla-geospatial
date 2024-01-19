@@ -20,8 +20,8 @@ sections:
           description: Career & Education
           url: /opportunities/careers
         - title: Resources
-          description: News & Links
-          url: /resources/news
+          description: GeoPlatforms & Links
+          url: /resources/geoplatforms
         - title: Events
           description: Upcoming Events
           url: /events/
