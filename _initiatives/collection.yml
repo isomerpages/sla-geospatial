@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Geospatial Master Plan.md
-      - GeoWorks.md
+      - Geospatial Centres.md
       - GeoChallenges.md
