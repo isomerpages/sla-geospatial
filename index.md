@@ -4,7 +4,7 @@ title: GeospatialSG
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Join us at Geo Connect Asia 2024 from 6 to 7 March 2024!
 sections:
   - hero:
       title: Geospatial SG
@@ -21,7 +21,7 @@ sections:
           url: /opportunities/careers
         - title: Resources
           description: News & Links
-          url: /resources
+          url: /resources/news
         - title: Events
           description: Upcoming Events
           url: /events/
