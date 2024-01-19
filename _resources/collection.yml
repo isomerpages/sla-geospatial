@@ -2,6 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - Companies.md
       - GeoPlatforms.md
+      - Companies.md
       - Useful Links.md
