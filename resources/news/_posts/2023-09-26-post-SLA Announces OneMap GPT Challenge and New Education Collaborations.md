@@ -7,4 +7,4 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p></p>
+<h1>Deepening Geospatial Capabilities in Singapore</h1><p><strong>5th Singapore Geospatial Festival on 26 September 2023</strong></p><p></p><p></p>
