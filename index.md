@@ -7,7 +7,7 @@ permalink: /
 notification: Join us at Geo Connect Asia 2024 from 6 to 7 March 2024!
 sections:
   - hero:
-      title: Geospatial SG
+      title: GeospatialSG
       subtitle: A Whole-of-Government (WOG) Initiative
       background: /images/hero-banner.png
       button: Contact Us
