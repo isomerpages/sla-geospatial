@@ -4,5 +4,4 @@ collections:
     order:
       - GeoPlatforms.md
       - Companies.md
-      - Data Resources & APIs.md
       - Useful Links.md
