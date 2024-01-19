@@ -8,9 +8,9 @@ links:
     collection: opportunities
   - title: Resources
     collection: resources
+  - title: Media Hub
+    resource_room: true
   - title: Events
     url: /events
   - title: Contact Us
     url: /contact-us/
-  - title: Resources
-    resource_room: true
