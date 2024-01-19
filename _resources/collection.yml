@@ -2,5 +2,5 @@ collections:
   resources:
     output: true
     order:
-      - News.md
+      - GeoPlatforms.md
       - Useful Links.md
