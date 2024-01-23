@@ -54,8 +54,8 @@ sections:
       title: Systems and Applications
       subtitle: The Geospatial Spectrum
       id: infopic
-      description: Systems and Apps link back-end database processes and front-end map
-        functions to deliver geospatial services.
+      description: Systems and applications link back-end database processes and
+        front-end map functions to deliver geospatial services.
       alt: Image alt text
       image: /images/systems.jpeg
   - infopic:
