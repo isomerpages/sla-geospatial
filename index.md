@@ -31,9 +31,9 @@ sections:
   - infobar:
       title: GEOSPATIAL
       subtitle: The Location of Things
-      description: Geospatial info is location data on a map. It adds the "where"
-        element for enhanced communication and optimization in our Smart Nation
-        and the Future Economy.
+      description: Geospatial information is location data on a map. The "where"
+        element enhances communication and optimisation in our Smart Nation and
+        the Future Economy.
   - infopic:
       title: Mapping and Remote Sensing
       subtitle: The Geospatial Spectrum
