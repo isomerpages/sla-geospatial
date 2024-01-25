@@ -1,0 +1,7 @@
+---
+title: GeoChallenges
+permalink: /initiatives/geochallenges/
+variant: tiptap
+description: ""
+---
+<h2>GeoChallenges</h2><p></p><div class="isomer-image-wrapper"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/AGC.png"></div><p>The ASEAN Geospatial Challenge: Geospatial Youth Edition brings youth in the ASEAN region together to use geospatial technology and information to support nations in achieving their Sustainable Development Goals (SDGs). Targeted at students from Institutes of Higher Learning (IHLs) in the ASEAN region, the challenge aims to:</p><ul data-tight="true" class="tight"><li><p>Cultivate good relationships and collaborations among the youth in ASEAN.</p></li><li><p>Elevate geospatial competencies and facilitate knowledge sharing.</p></li><li><p>Raise interest in the geospatial field</p></li></ul><p>Find out more at: <a href="https://aseangeospatial.org/asean-geospatial-challenge-2024" rel="noopener noreferrer nofollow" target="_blank">ASEAN Geospatial Challenge 2024</a></p><hr><p></p><div class="isomer-image-wrapper"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/OMGPT.png"></div><p>Launched in October 2023, SLA is looking for a prototype solution leveraging Generative AI technologies (such as GPT/Large Language Models) that can strengthen the relevance and appeal of OneMap among OneMap’s core user segments (e.g., public users, real-estate agencies, logistic businesses and other public agencies etc.) by enhancing current and /or introducing new functions and features.</p>

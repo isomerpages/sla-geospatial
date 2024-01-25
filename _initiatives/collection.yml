@@ -1,0 +1,7 @@
+collections:
+  initiatives:
+    output: true
+    order:
+      - Geospatial Master Plan.md
+      - Geospatial Centres.md
+      - GeoChallenges.md
