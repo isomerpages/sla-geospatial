@@ -57,7 +57,7 @@ sections:
       description: Systems and applications link back-end database processes and
         front-end map functions to deliver geospatial services.
       alt: Image alt text
-      image: /images/systems.jpeg
+      image: /images/OM2.png
   - infopic:
       title: Modelling and Analysis
       subtitle: The Geospatial Spectrum
