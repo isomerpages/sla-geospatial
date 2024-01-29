@@ -4,4 +4,42 @@ permalink: /about/
 variant: tiptap
 description: ""
 ---
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_01_17_132721.png"></div><h2>The GeospatialSG Programme</h2><p>Singapore's National Spatial Data Infrastructure (NSDI) was set up in 2008. Previously known as the Singapore Geospatial Collaborative Environment or SG-SPACE, the NSDI provides a mechanism to make authoritative geospatial data available for decision-making, public security and cost-effective businesses.</p><p>In 2018, SG-SPACE was reconceptualized to Geospatial Singapore (GeospatialSG), signifying the whole-of-nation approach to collectively maximize the use of geospatial information and technology for our Smart Nation and the Future Economy.</p><p>The GeospatialSG programme is co-driven by the Singapore Land Authority (SLA) and the Government Technology Agency of Singapore (GovTech), and the programme reports to the Government Data Steering Committee overseen by the Smart Nation and Digital Government Office.</p><p>Get involved in GeospatialSG and the implementation of its initiatives&nbsp;by contacting us:&nbsp;<a href="mailto:geoworks@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>geoworks@sla.gov.sg</u></a></p><hr><h3>GeospatialSG Leads Singapore's Geospatial Development</h3><p>SLA and GovTech have been playing an active role in driving the nation's geospatial development in three key areas:</p><div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/initiatives/masterplan" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="masterplan" src="/images/GMP.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Geospatial Master Plan</div><div class="isomer-card-description">Articulates key initiatives to drive geospatial development in the industry, people and government sectors.</div><div class="isomer-card-link">Learn more</div></div></a><a rel="noopener noreferrer nofollow" href="/resources/geoplatforms/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="geoplatforms" src="/images/GeoPlatforms.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GeoPlatforms</div><div class="isomer-card-description">Manages government central geodata sharing platforms, GeoSpace and OneMap. Developing Virtual Singapore, a high accuracy and data-rich 3D platform.</div><div class="isomer-card-link">Learn more</div></div></a><a rel="noopener noreferrer nofollow" href="/initiatives/geocentres" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="geospatial centres" src="/images/Geospatial_Centres.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Geospatial Centres</div><div class="isomer-card-description">SLA's Geospatial Industry and Capability Centres aim to promote the use of Geospatial in both the private and government sectors.</div><div class="isomer-card-link">Learn more</div></div></a></div><p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_01_17_132721.png">
+</div>
+<h2>The GeospatialSG Programme</h2>
+<p>Singapore's National Spatial Data Infrastructure (NSDI) was set up in
+2008. Previously known as the Singapore Geospatial Collaborative Environment
+or SG-SPACE, the NSDI provides a mechanism to make authoritative geospatial
+data available for decision-making, public security and cost-effective
+businesses.</p>
+<p>In 2018, SG-SPACE was reconceptualized to Geospatial Singapore (GeospatialSG),
+signifying the whole-of-nation approach to collectively maximize the use
+of geospatial information and technology for our Smart Nation and the Future
+Economy.</p>
+<p>The GeospatialSG programme is co-driven by the Singapore Land Authority
+(SLA) and the Government Technology Agency of Singapore (GovTech), and
+the programme reports to the Government Data Steering Committee overseen
+by the Smart Nation and Digital Government Office.</p>
+<p>Get involved in GeospatialSG and the implementation of its initiatives&nbsp;by
+contacting us:&nbsp;<a href="mailto:geoworks@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>geoworks@sla.gov.sg</u></a>
+</p>
+<hr>
+<h3>GeospatialSG Leads Singapore's Geospatial Development</h3>
+<p>SLA and GovTech have been playing an active role in driving the nation's
+geospatial development in three key areas:</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/initiatives/masterplan" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="masterplan" src="/images/GMP.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Geospatial Master Plan</div><div class="isomer-card-description">Articulates key initiatives to drive geospatial development in the industry, people and government sectors.</div><div class="isomer-card-link">Learn more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/resources/geoplatforms/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="geoplatforms" src="/images/GeoPlatforms.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">GeoPlatforms</div>
+<div class="isomer-card-description">Manages government central geodata sharing platforms, GeoSpace and OneMap.</div>
+<div class="isomer-card-link">Learn more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/initiatives/geocentres" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="geospatial centres" src="/images/Geospatial_Centres.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Geospatial Centres</div><div class="isomer-card-description">SLA's Geospatial Industry and Capability Centres aim to promote the use of Geospatial in both the private and government sectors.</div><div class="isomer-card-link">Learn more</div></div></a>
+</div>
+<p></p>
