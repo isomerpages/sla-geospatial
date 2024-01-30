@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h2>By the Singapore Land Authority Chief Executive Colin Low</h2>
+<h2>By Mr. Colin Low, Chief Executive, Singapore Land Authority</h2>
 <p><strong>Geo Connect Asia 2022 on 1 June 2022</strong>
 </p>
 <hr>
