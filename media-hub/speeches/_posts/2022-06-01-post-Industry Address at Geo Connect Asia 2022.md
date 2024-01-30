@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h1>Deepening Geospatial Capabilities in Singapore</h1>
+<h2>By the Singapore Land Authority Chief Executive Colin Low</h2>
 <p><strong>Geo Connect Asia 2022 on 1 June 2022</strong>
 </p>
 <hr>
@@ -66,69 +66,64 @@ national map, is well-placed to be the Green Map for Singapore. For example,
 solar potential, accessibility to green spaces and the network of EV charging
 points could be mapped onto OneMap. The possibilities are only limited
 by our imagination.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Expanding the Benefits of Geospatial into Real Estate</strong>
 </p>
 <p>7.&nbsp;&nbsp; &nbsp;As the geospatial agency of Singapore, SLA remains
 committed in expanding the use of geospatial through collaborations with
 the industry.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>8.&nbsp;&nbsp; &nbsp;In the past few months, SLA has signed MOUs with
 the top 5 real estate agencies in Singapore that represent more than 80%
 of market share. SLA is working with these real estate agencies to collect
 hyperlocal data through a geospatial application that harnesses GeoAI.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>9,&nbsp;&nbsp; &nbsp;With this collaboration, property agents would benefit
 from the integration of hyperlocal data on their own platforms. This will
 help them serve their clients better with detailed location information
 and nearby points of interest. Consumers looking to buy, sell or rent property
 could benefit from the enriched data to make a more informed decision.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>10.&nbsp;&nbsp; &nbsp;Today, we are signing an MOU with the Real Estate
 Developers’ Association of Singapore (REDAS) to explore and collaborate
 on geospatial solutions in the real estate and related industries.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>11.&nbsp;&nbsp; &nbsp;Looking ahead, we can potentially work with developers
 to place 3D models of their newly launched projects on OneMap to showcase
 a more dynamic representation of properties, with window-views and shadow
 casting.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>12.&nbsp;&nbsp; &nbsp;The mainstreaming of geospatial and cross-sector
 collaborations is a testament to a vibrant and progressive geospatial industry.
 For that, I would like to thank the President of REDAS, Mr. Chia, and our
 partners, for supporting this shared vision.</p>
-<p>&nbsp;</p>
-<p><strong><br></strong>
-</p>
-<p><strong><br></strong>
-</p>
+<p></p>
 <p><strong>Metaverse is the Next Big Opportunity in Geospatial</strong>
 </p>
 <p>13.&nbsp;&nbsp; &nbsp;Now, significant developments in digital transformation
 have empowered cities to look ahead and plant seeds for a metaverse ecosystem.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>14.&nbsp;&nbsp; &nbsp;For me, the metaverse is a series of connected virtual
 environments, created by the convergence of virtually enhanced physical
 and digital worlds. Many businesses and enterprises are now exploring metaverse-based
-fundamentals such as digital twins to synchronize these realities.</p>
-<p>The metaverse may transform the way we socialize, work and play, and I
-am confident that the geospatial industry is ready to seize new opportunities
-in the metaverse ecosystem.</p>
-<p>&nbsp;</p>
+fundamentals such as digital twins to synchronize these realities. The
+metaverse may transform the way we socialize, work and play, and I am confident
+that the geospatial industry is ready to seize new opportunities in the
+metaverse ecosystem.</p>
+<p></p>
 <p><strong>Closing Statement</strong>
 </p>
 <p>15.&nbsp;&nbsp; &nbsp;I would like to leave you with a quote from Bill
 Gates, who said "Innovation is the most powerful force for change in the
 world."</p>
-<p>&nbsp;</p>
+<p></p>
 <p>16.&nbsp;&nbsp; &nbsp;The value of geospatial is more apparent than ever
 before. By coming together as a geospatial ecosystem, I believe our co-innovations
 and our partnerships will collectively shape the next bound of our common
 geospatial future.&nbsp;I hope this conference will allow you the space
 and time to reflect and exchange ideas on how we can bring forward geospatial
 development in the coming months and years.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>17.&nbsp;&nbsp; &nbsp;On this note, I wish everyone a fruitful conference
 ahead. Thank you.</p>
 <p>
