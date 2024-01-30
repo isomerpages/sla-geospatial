@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <h1>Deepening Geospatial Capabilities in Singapore</h1>
-<p><strong>5th Singapore Geospatial Festival on 26 September 2023</strong>
+<p><strong>Geo Connect Asia 2022 on 1 June 2022</strong>
 </p>
 <hr>
 <p><strong>Introduction</strong>
