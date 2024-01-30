@@ -56,3 +56,9 @@ innovation in Singapore and the UK in collaboration with the Ordnance Survey.
 We look forward to share our knowledge in harnessing the potential of geospatial
 information and technology with our global partners,” said SLA Chief Executive
 Mr Tan Boon Khai.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ordnance2.jpeg">
+</div>
+<p><em>(from left) SLA CE Mr Tan Boon Khai, SLA Director of Geospatial and Data Mr Ng Siau Yong, Managing Director of Ordnance Survey International Mr Peter Hedlund and British High Commissioner Mr Scott Wightman.</em>
+</p>
