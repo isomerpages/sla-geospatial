@@ -96,9 +96,9 @@ please refer to Annex C.</p>
 <p>8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The line-up of
 the activities organised during Singapore Geospatial Festival 2022 is available
 at the event website at&nbsp;<a href="https://www.sla.gov.sg/geoworks/programmes/singapore-geospatial-festival" rel="noopener noreferrer nofollow" target="_blank">https://www.sla.gov.sg/geoworks/programmes/singapore-geospatial-festival</a>.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>=== End ===</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Issued by:</strong>
 </p>
 <p>Singapore Land Authority</p>
@@ -195,9 +195,9 @@ enriching and inspiring. I wish all of you an enjoyable time at GeoFest
 </p>
 <p><strong>Memorandum of Understanding between Singapore Land Authority (SLA) and Singapore Business Federation (SBF) – Quotes from signatories</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SGF22.jpeg">
+</div>
 <p>Chief Executive of Singapore Land Authority, Mr Colin Low (right) and
 Chief Executive Officer of Singapore Business Federation, Mr Lam Yi Young
 (left) signed a&nbsp;new Memorandum of Understanding (MOU)&nbsp;on 4 October,&nbsp;to
@@ -288,12 +288,15 @@ benefit other countries which are also looking at using land and marine
 data for their coastal protection planning strategies.”</p>
 <p><strong>Additional Photos of the Opening of&nbsp;4th&nbsp;Singapore Geospatial Festival 2022</strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SGF22_2.jpeg">
+</div>
 <p>Dr Amy Khor, Senior Minister of State, Ministry of Sustainability and
 the Environment, and Ministry of Transport, delivering the opening speech
 at the 4th&nbsp;Singapore Geospatial Festival on 4 October 2022.</p>
-<p>&nbsp;</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SGF22_3.jpeg">
+</div>
 <p>Dr Nadine Alameh (extreme left), Chief Executive Officer, Open Geospatial
 Consortium (OGC) moderated a fireside chat with women leaders in the geospatial
 profession who shared their experiences and insights working in the field
