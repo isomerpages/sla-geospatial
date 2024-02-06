@@ -15,8 +15,8 @@ data available for decision-making, public security and cost-effective
 businesses.</p>
 <p>In 2018, SG-SPACE was reconceptualized to Geospatial Singapore (GeospatialSG),
 signifying the whole-of-nation approach to collectively maximize the use
-of geospatial information and technology for our Smart Nation and the Future
-Economy.</p>
+of geospatial information and technology for Singapore's social and economic
+development.</p>
 <p>The GeospatialSG programme is co-driven by the Singapore Land Authority
 (SLA) and the Government Technology Agency of Singapore (GovTech), and
 the programme reports to the Government Data Steering Committee overseen
