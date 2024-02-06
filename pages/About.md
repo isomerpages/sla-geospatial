@@ -17,10 +17,6 @@ businesses.</p>
 signifying the whole-of-nation approach to collectively maximize the use
 of geospatial information and technology for Singapore's social and economic
 development.</p>
-<p>The GeospatialSG programme is co-driven by the Singapore Land Authority
-(SLA) and the Government Technology Agency of Singapore (GovTech), and
-the programme reports to the Government Data Steering Committee overseen
-by the Smart Nation and Digital Government Office.</p>
 <p>Get involved in GeospatialSG and the implementation of its initiatives&nbsp;by
 contacting us:&nbsp;<a href="mailto:geoworks@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>geoworks@sla.gov.sg</u></a>
 </p>
