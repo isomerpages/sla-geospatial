@@ -107,20 +107,6 @@ available for:&nbsp;</p>
 </li>
 </ul>
 <hr>
-<h2>Licensed Data</h2>
-<p>The Singapore Land Authority (SLA) is the trusted centre for authoritative
-government geospatial data in Singapore.&nbsp;</p>
-<p>SLA offers geospatial data that are authoritative, accurate, granular,
-timely and localised via SLA products that include Licensed Data.&nbsp;</p>
-<p>Licensed Data can be used in sectors such as transport and logistics for
-real time fleet monitoring.&nbsp;</p>
-<p>The types of datasets available under SLA Licensed Data are:&nbsp;</p>
-<p>• SLA Street Directory</p>
-<p>• SLA Address Point</p>
-<p>• SLA Digitised Cadastral</p>
-<p>• Land Base Road Network</p>
-<p>• Land Base Building Outline</p>
-<hr>
 <h2>INLIS</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/INLIS.png">
@@ -129,41 +115,6 @@ real time fleet monitoring.&nbsp;</p>
 a one-stop online portal which allows users to search and purchase land
 and property-related information such as property ownership, survey plans
 and road line plans.</p>
-<p><strong>It is for:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Law firms</p>
-</li>
-<li>
-<p>Property developers</p>
-</li>
-<li>
-<p>Construction project managers</p>
-</li>
-<li>
-<p>Engineers</p>
-</li>
-<li>
-<p>Property agents</p>
-</li>
-<li>
-<p>Surveyors</p>
-</li>
-</ul>
-<p>You can access a wide variety of information from the website such as:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Property Information</p>
-</li>
-<li>
-<p>Land Survey Information</p>
-</li>
-<li>
-<p>Road Line Plan &amp; Railway Protection Plan</p>
-</li>
-<li>
-<p>Borehole and Utility Information</p>
-</li>
-</ul>
+<hr>
+<h2>GeoSpace</h2>
 <p></p>
