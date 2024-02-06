@@ -35,4 +35,3 @@ and services.</p>
 <hr>
 <h2>Geospatial Trusted Centre</h2>
 <p></p>
-<p></p>
