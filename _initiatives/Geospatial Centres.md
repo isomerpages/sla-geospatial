@@ -20,10 +20,6 @@ geospatial community.</p>
 <p><a href="https://www.sla.gov.sg/geoworks/" rel="noopener noreferrer nofollow" target="_blank">Website</a>
 </p>
 </li>
-<li>
-<p><a href="/files/GeoWorks_BrochureAug2021.pdf" rel="noopener noreferrer nofollow" target="_blank">Brochure</a>
-</p>
-</li>
 </ul>
 <hr>
 <h2>Centre of Geospatial and Geomatics (C2G)</h2>
@@ -36,3 +32,7 @@ and geomatics for national functions will be sustainable in the long run.
 Initiatives driven by the C2G will encompass both the upstream functions
 of geomatics survey and mapping, as well as downstream geospatial capabilities
 and services.</p>
+<hr>
+<h2>Geospatial Trusted Centre</h2>
+<p></p>
+<p></p>
