@@ -2,8 +2,8 @@ title: GeospatialSG
 url: https://www.geospatial.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#b23954"
+  secondary-color: "#b68293"
   media-colors:
     - title: media-color-one
       color: "#49759a"
