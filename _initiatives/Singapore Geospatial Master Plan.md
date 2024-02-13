@@ -16,17 +16,19 @@ Geospatial Hub’. This will be done via the three following strategies:</p>
 <hr>
 <h4>Mainstreaming</h4>
 <p>Maximising the potential of geospatial by embedding its adoption in mainstream
-society. Target sectors incluide the social, healthcare, and economic sectors,
+society. Target sectors include the social, healthcare, and economic sectors,
 with initiatives promoting inclusivity, preventive healthcare and innovation.</p>
 <hr>
 <h4>Deepening Capabilities</h4>
-<p>Geospatial capabilities across both the public and private sector will
-be enhanced to address and meet the burgeoning demand for geospatial information
-and technology.</p>
+<p>Enhancing core geospatial capabilities to address increasing demand. This
+includes strengthening data infrastructure, fostering innovation and building
+education pathways and talent pipelines.</p>
 <hr>
 <h4>Going Global</h4>
-<p>Singapore will cement its position as a leading geospatial player by expanding
-its global reach via international engagements, partnerships, and events.</p>
+<p>Positioning Singapore as a leading geospatial player through international
+engagements, partnerships, and events. Initiatives include contributing
+to global geospatial development, strengthening partnerships and hosting
+flagship geospatial conferences and events.</p>
 <hr>
 <p><strong>Read about the GMP here:</strong>
 </p>
