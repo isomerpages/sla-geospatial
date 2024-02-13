@@ -15,9 +15,9 @@ the land and sea towards transforming Singapore into ‘A Leading Global
 Geospatial Hub’. This will be done via the three following strategies:</p>
 <hr>
 <h4>Mainstreaming</h4>
-<p>The potential of geospatial information and technology will be maximised
-through embedding its adoption in mainstream society, enabling it to impact
-both traditional and non-traditional user sectors.</p>
+<p>Maximising the potential of geospatial by embedding its adoption in mainstream
+society. Target sectors incluide the social, healthcare, and economic sectors,
+with initiatives promoting inclusivity, preventive healthcare and innovation.</p>
 <hr>
 <h4>Deepening Capabilities</h4>
 <p>Geospatial capabilities across both the public and private sector will
