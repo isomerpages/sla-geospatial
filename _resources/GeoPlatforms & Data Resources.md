@@ -28,4 +28,9 @@ and property-related information such as property ownership, survey plans
 and road line plans.</p>
 <hr>
 <h2>GeoSpace</h2>
-<p></p>
+<p>Since 2011, GeoSpace has served as the Whole-of-Government internal geospatial
+data sharing platform, enabling agencies to seamlessly discover, share,
+and access government geospatial data. These datasets support agencies
+in their policy planning, operations, and service delivery, and are either
+used directly by agencies or consumed via agencies’ domain systems and
+applications.</p>
