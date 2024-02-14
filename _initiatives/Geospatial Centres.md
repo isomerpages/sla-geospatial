@@ -34,4 +34,12 @@ of geomatics survey and mapping, as well as downstream geospatial capabilities
 and services.</p>
 <hr>
 <h2>Geospatial Trusted Centre</h2>
-<p></p>
+<p>As part of the Government Data Architecture overseen by the Smart Nation
+Group, the Geospatial Trusted Centre was established in 2019 to support
+the designation, implementation, distribution, and use of geospatial core
+data across the public sector. The Geospatial Trusted Centre facilitates
+the efficient data sharing of authoritative geospatial datasets from Single
+Sources of Truth across public agencies. Along with the Trusted Centres
+in the Individual &amp; Business and Sensor domains, the Geospatial Trusted
+Centre is fundamental to the public sector’s efforts to become ‘data-driven
+to the core’.</p>
