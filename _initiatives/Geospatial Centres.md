@@ -22,17 +22,6 @@ geospatial community.</p>
 </li>
 </ul>
 <hr>
-<h2>Centre of Geospatial and Geomatics (C2G)</h2>
-<p>Geospatial and geomatics have matured into strategic capabilities needed
-to support multiple critical government functions. The Centre of Geospatial
-and Geomatics (C2G) will establish Singapore as a leading centre for the
-development of geospatial and geomatics capabilities. C2G will build key
-expertise and skillsets, ensuring that Singapore’s ability to use geospatial
-and geomatics for national functions will be sustainable in the long run.
-Initiatives driven by the C2G will encompass both the upstream functions
-of geomatics survey and mapping, as well as downstream geospatial capabilities
-and services.</p>
-<hr>
 <h2>Geospatial Trusted Centre</h2>
 <p>As part of the Government Data Architecture overseen by the Smart Nation
 Group, the Geospatial Trusted Centre was established in 2019 to support
