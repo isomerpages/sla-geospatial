@@ -1,0 +1,7 @@
+collections:
+  opportunities:
+    output: true
+    order:
+      - Careers.md
+      - Education.md
+      - Scholarships.md

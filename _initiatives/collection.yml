@@ -1,0 +1,6 @@
+collections:
+  initiatives:
+    output: true
+    order:
+      - Geospatial Centres.md
+      - GeoChallenges.md

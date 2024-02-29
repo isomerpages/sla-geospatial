@@ -1,0 +1,5 @@
+collections:
+  drafts:
+    output: true
+    order:
+      - Singapore Geospatial Master Plan.md
