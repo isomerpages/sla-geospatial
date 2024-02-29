@@ -34,7 +34,8 @@ flagship geospatial conferences and events.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Singapore Geospatial Master Plan 2024</p>
+<p><a href="https://go.gov.sg/singapore-geospatial-master-plan-2024" rel="noopener noreferrer nofollow" target="_blank">Singapore Geospatial Master Plan 2024</a>
+</p>
 </li>
 <li>
 <p><a href="https://go.gov.sg/singapore-geospatial-master-plan-2018" rel="noopener noreferrer nofollow" target="_blank">Singapore Geospatial Master Plan 2018</a>
