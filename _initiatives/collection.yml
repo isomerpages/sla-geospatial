@@ -2,5 +2,6 @@ collections:
   initiatives:
     output: true
     order:
+      - Singapore Geospatial Master Plan.md
       - Geospatial Centres.md
       - GeoChallenges.md
