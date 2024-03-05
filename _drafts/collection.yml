@@ -1,4 +1,5 @@
 collections:
   drafts:
     output: true
-    order: []
+    order:
+      - Singapore Geospatial Master Plan.md
