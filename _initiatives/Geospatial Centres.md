@@ -17,7 +17,7 @@ geospatial community.</p>
 <p>Learn more about GeoWorks:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.sla.gov.sg/geoworks/" rel="noopener noreferrer nofollow" target="_blank">Website</a>
+<p><a href="https://geoworks.sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Website</a>
 </p>
 </li>
 </ul>
