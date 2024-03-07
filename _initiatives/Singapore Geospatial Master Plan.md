@@ -30,7 +30,7 @@ engagements, partnerships, and events. Initiatives include contributing
 to global geospatial development, strengthening partnerships and hosting
 flagship geospatial conferences and events.</p>
 <hr>
-<p><strong>Read about the GMP here:</strong>
+<p><strong>Read about the Singapore Geospatial Master Plan here:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
