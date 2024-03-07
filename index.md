@@ -14,8 +14,8 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: Initiatives
-          description: Geospatial Centres
-          url: /initiatives/geocentres
+          description: Geospatial Master Plan
+          url: /initiatives/masterplan
         - title: Opportunities
           description: Career & Education
           url: /opportunities/careers
