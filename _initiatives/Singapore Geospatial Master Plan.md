@@ -4,7 +4,7 @@ permalink: /initiatives/masterplan/
 variant: tiptap
 description: ""
 ---
-<h2>Singapore Geospatial <strong>Master Plan</strong></h2>
+<h2>Singapore Geospatial Master Plan</h2>
 <p>The Singapore Geospatial Master Plan drives Singapore’s national geospatial
 development, maximising the impact of geospatial information and technology
 for the economy and the wider society.</p>
