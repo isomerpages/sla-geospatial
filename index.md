@@ -14,7 +14,7 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: Initiatives
-          description: Geospatial Master Plan
+          description: SG Geospatial Master Plan
           url: /initiatives/masterplan
         - title: Opportunities
           description: Career & Education
