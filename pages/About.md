@@ -8,6 +8,9 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_01_17_132721.png">
 </div>
 <h2>The GeospatialSG Programme</h2>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/O6YjbnGJUrk?si=6BGhSu4sz-NtJ46V"></iframe>
+</div>
 <p>Singapore's National Spatial Data Infrastructure (NSDI) was set up in
 2008. Previously known as the Singapore Geospatial Collaborative Environment
 or SG-SPACE, the NSDI provides a mechanism to make authoritative geospatial
