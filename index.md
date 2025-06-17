@@ -18,10 +18,10 @@ sections:
           url: /discover-geospatial/about-us
         - title: Geospatial for public good
           description: ""
-          url: /publicgood/onemap
+          url: /public-good/onemap
         - title: Geospatial for Business & Sustainability
           description: ""
-          url: /businesssustainability/privatesectorusecases
+          url: /business-sustainability/private-sector-use-cases
         - title: Geoworks
           description: ""
           url: /geoworks/sggeofest2024
