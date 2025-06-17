@@ -2,6 +2,7 @@ collections:
   geoworks:
     output: true
     order:
+      - Geo Connect Asia/.keep
       - Singapore Geospatial Festival/.keep
       - Singapore Geospatial Festival/Singapore Geospatial Festival 2024.md
       - Singapore Geospatial Festival/Singapore Geospatial Festival 2023.md
