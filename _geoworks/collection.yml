@@ -1,4 +1,5 @@
 collections:
   geoworks:
     output: true
-    order: []
+    order:
+      - Singapore Geospatial Festival/.keep
