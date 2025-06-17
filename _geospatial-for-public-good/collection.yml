@@ -2,8 +2,8 @@ collections:
   geospatial-for-public-good:
     output: true
     order:
+      - OneMap/.keep
+      - OneMap/OneMap.md
+      - OneMap/Public Sector Use Cases.md
       - OneMap/Social Sector Use Cases.md
       - OneMap/Healthcare Sector Use Cases.md
-      - OneMap/Public Sector Use Cases.md
-      - OneMap/OneMap.md
-      - OneMap/.keep
