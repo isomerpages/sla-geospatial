@@ -4,8 +4,6 @@ links:
     url: /about
   - title: Discover Geospatial
     collection: discover-geospatial
-  - title: Resources
-    collection: resources
   - title: Media Hub
     resource_room: true
   - title: Events
