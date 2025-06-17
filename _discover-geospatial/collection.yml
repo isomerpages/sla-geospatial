@@ -1,5 +1,5 @@
 collections:
-  initiatives:
+  discover-geospatial:
     output: true
     order:
       - Singapore Geospatial Master Plan.md
