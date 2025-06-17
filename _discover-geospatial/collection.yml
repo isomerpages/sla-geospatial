@@ -2,6 +2,7 @@ collections:
   discover-geospatial:
     output: true
     order:
+      - NUS Professional Certificate in Applied GIS.md
       - About Us.md
       - Singapore Geospatial Master Plan.md
       - Geospatial Centres.md
