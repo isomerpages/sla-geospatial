@@ -24,7 +24,7 @@ sections:
           url: /business-sustainability/private-sector-use-cases
         - title: Geoworks
           description: ""
-          url: /geoworks/sggeofest2024
+          url: /geoworks/sggeofest/singapore-geospatial-festival-2024
       variant: center
       backgroundColor: gray
       size: sm
