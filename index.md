@@ -13,18 +13,18 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Initiatives
-          description: SG Geospatial Master Plan
-          url: /initiatives/masterplan
-        - title: Opportunities
-          description: Career & Education
-          url: /opportunities/careers
-        - title: Resources
-          description: GeoPlatforms & Links
-          url: /resources/geoplatforms
-        - title: Events
-          description: Upcoming Events
-          url: /events/
+        - title: Discover geospatial
+          description: ""
+          url: /discovergeospatial/aboutus
+        - title: Geospatial for public good
+          description: ""
+          url: /publicgood/onemap
+        - title: Geospatial for Business & Sustainability
+          description: ""
+          url: /businesssustainability/privatesectorusecases
+        - title: Geoworks
+          description: ""
+          url: /geoworks/sggeofest2024
       variant: center
       backgroundColor: gray
       size: sm
