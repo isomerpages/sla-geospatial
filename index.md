@@ -18,7 +18,7 @@ sections:
           url: /discover-geospatial/about-us
         - title: Geospatial for public good
           description: ""
-          url: /public-good/onemap
+          url: /public-good/onemap/onemap
         - title: Geospatial for Business & Sustainability
           description: ""
           url: /business-sustainability/private-sector-use-cases
