@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Discover geospatial
           description: ""
-          url: /discovergeospatial/aboutus
+          url: /discover-geospatial/about-us
         - title: Geospatial for public good
           description: ""
           url: /publicgood/onemap
