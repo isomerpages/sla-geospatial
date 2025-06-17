@@ -1,4 +1,5 @@
 collections:
   geospatial-for-public-good:
     output: true
-    order: []
+    order:
+      - OneMap.md
