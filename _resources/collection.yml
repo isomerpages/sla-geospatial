@@ -1,7 +1,0 @@
-collections:
-  resources:
-    output: true
-    order:
-      - GeoPlatforms & Data Resources.md
-      - Companies.md
-      - Useful Links.md
