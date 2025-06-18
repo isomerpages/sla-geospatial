@@ -5,8 +5,10 @@ variant: tiptap
 description: Social Sector Use Cases
 third_nav_title: OneMap
 ---
-<p><strong>Barrier-free Access (BFA) Routing in OneMap</strong>
-</p>
+<h4><strong>Barrier-free Access (BFA) Routing in OneMap</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bfa.png">
+</div>
 <p>SLA has worked with various stakeholders, including SG Enable, to map
 barrier-free routes to enable wheelchair users to move about easily. This
 collaboration is part of SLA’s support for the Enabling Masterplan 2030
@@ -22,8 +24,10 @@ Ang Mo Kio, Bukit Merah, Punggol, Tanglin etc, are now available in OneMap’s
 mobile apps as an additional mode of wayfinding, supplementing the existing
 public transport, cycling and driving modes.</p>
 <p></p>
-<p><strong>Directory of Family Services by MSF</strong>
-</p>
+<h4><strong>Directory of Family Services by MSF</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MSF_directory_of_family_services.png">
+</div>
 <p>The Directory of Family Services (DFS) is a database maintained by the
 Ministry of Social and Family Development (MSF) that contains information
 about social services and programmes available in Singapore. It serves
