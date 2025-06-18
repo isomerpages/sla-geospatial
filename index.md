@@ -8,7 +8,8 @@ notification: ""
 sections:
   - hero:
       title: GeospatialSG
-      subtitle: A Whole-of-Government (WOG) Initiative
+      subtitle: Enabling Singapore's Smart Nation vision through Geospatial for
+        Enhanced Public Services, Industry Innovation and Community Well-being.
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
