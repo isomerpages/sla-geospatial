@@ -68,18 +68,4 @@ sections:
         insights from geospatial data for enhanced decision making.
       alt: Image alt text
       image: /images/analysis.jpeg
-  - textcards:
-      title: GLOBAL GEOSPATIAL DEVELOPMENTS
-      id: textcards
-      cards:
-        - title: UN Global Geospatial Information Management
-          description: The UN-GGIM sets the agenda for global geospatial information
-            development.
-          linktext: Learn more
-          url: https://ggim.un.org/
-        - title: World Bank Group
-          description: World Bank projects help cities use geospatial data for sustainable
-            planning.
-          linktext: Global Platform for Sustainable Cities
-          url: https://www.thegpsc.org/
 ---
