@@ -1,12 +1,12 @@
 logo: /images/Screenshot_2024_02_27_122203.png
 links:
-  - title: About
-    url: /about
   - title: Discover Geospatial
     collection: discover-geospatial
+  - title: Geospatial for Public Good
+    collection: geospatial-for-public-good
+  - title: Geospatial for Business
+    collection: geospatial-for-business
   - title: Media Hub
     resource_room: true
-  - title: Events
-    url: /events
   - title: Contact Us
     url: /contact-us/
