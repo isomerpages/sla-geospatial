@@ -10,7 +10,7 @@ sections:
       title: GeospatialSG
       subtitle: Enabling Singapore's Smart Nation vision through Geospatial for
         Enhanced Public Services, Industry Innovation and Community Well-being.
-      background: /images/hero-banner.png
+      background: /images/GeospatialSG_Banner.png
       button: Contact Us
       url: /contact-us/
       key_highlights:
