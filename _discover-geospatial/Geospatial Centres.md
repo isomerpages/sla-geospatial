@@ -8,12 +8,11 @@ description: Geospatial Centres
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/GeoWorks.jpeg">
 </div>
-<p>GeoWorks is Southeast Asia’s first geospatial industry centre, operated
-by the Singapore Land Authority. As an industry centre, it aims to foster
-a vibrant geospatial ecosystem in Singapore and beyond – bringing together
-geospatial businesses such as MNCs, scale-ups and government agencies to
-promote business growth, drive innovation and build a diverse, well-connected
-geospatial community.</p>
+<p>GeoWorks brings together working professionals and passionate individuals
+across the geospatial landscape. Our aim is to create a vibrant community
+where innovation thrives through meaningful connections. Through events
+and knowledge-sharing sessions, we hope to create opportunities for potential
+collaborations and knowledge exchange within the community.</p>
 <p>Learn more about GeoWorks:</p>
 <ul data-tight="true" class="tight">
 <li>
