@@ -22,7 +22,7 @@ Ang Mo Kio, Bukit Merah, Punggol, Tanglin etc, are now available in OneMap’s
 mobile apps as an additional mode of wayfinding, supplementing the existing
 public transport, cycling and driving modes.</p>
 <p></p>
-<p><strong>Directory of Family Services</strong>
+<p><strong>Directory of Family Services by MSF</strong>
 </p>
 <p>The Directory of Family Services (DFS) is a database maintained by the
 Ministry of Social and Family Development (MSF) that contains information
