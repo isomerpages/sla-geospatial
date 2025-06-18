@@ -4,7 +4,7 @@ title: GeospatialSG
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Geo Connect Asia 2026 will be taking place on 31 Mar & 1 Apr 2026!
 sections:
   - hero:
       title: GeospatialSG
