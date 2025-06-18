@@ -24,3 +24,8 @@ with the HealthierSG initiative. Furthermore, mapping disease clusters
 and healthcare infrastructure across the island enables more efficient
 emergency response and strategic planning for future healthcare needs in
 Singapore's dense urban environment.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Enhancing_Lives_through_Geospatial.png">
+</div>
+<p></p>
