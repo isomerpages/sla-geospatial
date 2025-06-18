@@ -5,6 +5,10 @@ variant: tiptap
 description: Singapore Geospatial Master Plan
 ---
 <h2>Singapore Geospatial Master Plan</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Singapore_Geospatial_Master_Plan.png">
+</div>
 <p>The Singapore Geospatial Master Plan drives Singapore’s national geospatial
 development, maximising the impact of geospatial information and technology
 for the economy and the wider society.</p>
