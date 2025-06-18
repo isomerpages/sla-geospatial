@@ -5,8 +5,10 @@ variant: tiptap
 description: Healthcare Sector Use Cases
 third_nav_title: OneMap
 ---
-<p><strong>Living Asset Map by SingHealth</strong>
-</p>
+<h4><strong>Living Asset Map by SingHealth</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LAMP.png">
+</div>
 <p>The Living Asset Map (LAMP) is a platform developed in collaboration with
 SingHealth that serves as a comprehensive visualisation tool for healthcare
 planning and service delivery in Singapore. By integrating multiple data
@@ -18,8 +20,10 @@ which connects individuals with community resources and support to improve
 their health and wellbeing.</p>
 <p></p>
 <p></p>
-<p><strong>Digital Local Connect by MOHT</strong>
-</p>
+<h4><strong>Digital Local Connect by MOHT</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DLC.png">
+</div>
 <p>The Digital Local Connect (DLC) is a transformative digital ecosystem
 developed by the Ministry of Health Transformation (MOHT) to enhance community-based
 healthcare coordination. By connecting healthcare providers, social services,
