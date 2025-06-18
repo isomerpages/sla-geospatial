@@ -8,6 +8,9 @@ third_nav_title: OneMap
 <p>OneMap is Singapore's authoritative national map platform developed and
 maintained by the Singapore Land Authority (SLA).</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OneMap_screenshot.png">
+</div>
 <p>Some of its key features and purposes include:</p>
 <p>•Serving as a one-stop integrated map system that combines detailed location-based
 information and services from various government agencies</p>
