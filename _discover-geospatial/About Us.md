@@ -4,6 +4,10 @@ permalink: /discover-geospatial/about-us/
 variant: tiptap
 description: About Us
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About_Us.png">
+</div>
 <p>The Singapore Land Authority (SLA) plays a vital role as the national
 geospatial agency, serving as the guardian of Singapore's national spatial
 data infrastructure. As the national authority for land survey, SLA also
