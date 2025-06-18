@@ -4,6 +4,10 @@ permalink: /geoworks/about-geoworks/
 variant: tiptap
 description: About Geoworks
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About_Geoworks_group_photo.jpg">
+</div>
 <p>GeoWorks brings together working professionals and passionate individuals
 across the geospatial landscape. Our aim is to create a vibrant community
 where innovation thrives through meaningful connections. Through events
