@@ -20,5 +20,9 @@ culminates in a self-directed project where participants can apply their
 newly acquired knowledge and skills to solve actual problems, enabling
 them to bridge the gap between theory and practical implementation.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NUS_PC.png">
+</div>
+<p></p>
 <p>Visit <a href="https://fass.nus.edu.sg/geog/continuing-education-and-training/pc-in-applied-gis/" rel="noopener noreferrer nofollow" target="_blank">https://fass.nus.edu.sg/geog/continuing-education-and-training/pc-in-applied-gis/</a> for
 more information</p>
