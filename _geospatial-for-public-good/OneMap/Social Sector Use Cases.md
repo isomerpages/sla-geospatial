@@ -1,0 +1,51 @@
+---
+title: Social Sector Use Cases
+permalink: /public-good/onemap/social-sector-use-cases/
+variant: tiptap
+description: Social Sector Use Cases
+third_nav_title: OneMap
+---
+<p><strong>Barrier-free Access (BFA) Routing</strong>
+</p>
+<p>SLA has worked with various stakeholders, including SG Enable, to map
+barrier-free routes to enable wheelchair users to move about easily. This
+collaboration is part of SLA’s support for the Enabling Masterplan 2030
+which sets out the vision for Singapore as an inclusive society by 2030.
+In this initiative, data relating to routes that are barrier-free such
+as those with wheelchair-accessible covered linkways, ramps, footpaths,
+pedestrian crossings, overhead bridges with lifts are collected and mapped
+in 9 planning areas across Singapore. A total of 1,000km of BFA routes
+have been mapping and a further 5,000km is planned for the coming years.</p>
+<p></p>
+<p>The BFA routing function for 9 planning areas, including areas such as
+Ang Mo Kio, Bukit Merah, Punggol, Tanglin etc, are now available in OneMap’s
+mobile apps as an additional mode of wayfinding, supplementing the existing
+public transport, cycling and driving modes.</p>
+<p></p>
+<p><strong>Directory of Family Services</strong>
+</p>
+<p>The Directory of Family Services (DFS) is a database maintained by the
+Ministry of Social and Family Development (MSF) that contains information
+about social services and programmes available in Singapore. It serves
+as a comprehensive resource for social service professionals and the public
+to locate and access various family-related support services.</p>
+<p></p>
+<p>The DFS includes details about:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Family Service Centres (FSCs)</p>
+</li>
+<li>
+<p>Social Service Offices</p>
+</li>
+<li>
+<p>Student Care Centres</p>
+</li>
+<li>
+<p>Other social service organisations and their programmes</p>
+</li>
+</ul>
+<p></p>
+<p>Social service professionals use this directory to make appropriate referrals
+for their clients, while members of the public can use it to find nearby
+services that meet their needs.</p>
