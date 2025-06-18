@@ -19,6 +19,8 @@ and improved last-mile delivery success rates.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/edgeprop_screenshot.png">
 </div>
+<p><sub>EdgeProp using OneMap to display property listings</sub>
+</p>
 <p>For the construction and autonomous vehicles industries, SiReNT provides
 crucial high-precision positioning data that enables centimetre-level accuracy
 for surveying, Building Information Modelling (BIM), and precise positioning
@@ -26,8 +28,8 @@ of structural elements, which is especially valuable in Singapore's dense
 urban environment. It also delivers Real-Time Kinematic (RTK) corrections
 that allow exact positioning on roads, essential for safe navigation and
 testing of autonomous vehicles in Singapore.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SiReNT_driveless_vehicle.png">
 </div>
-<p></p>
+<p><sub>SiReNT is used for driverless vehicles at Gardens by the Bay. (Photo from Gardens by the Bay)</sub>
+</p>
