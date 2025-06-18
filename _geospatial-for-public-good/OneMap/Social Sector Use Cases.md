@@ -5,7 +5,7 @@ variant: tiptap
 description: Social Sector Use Cases
 third_nav_title: OneMap
 ---
-<p><strong>Barrier-free Access (BFA) Routing</strong>
+<p><strong>Barrier-free Access (BFA) Routing in OneMap</strong>
 </p>
 <p>SLA has worked with various stakeholders, including SG Enable, to map
 barrier-free routes to enable wheelchair users to move about easily. This
