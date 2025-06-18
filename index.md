@@ -8,8 +8,9 @@ notification: Geo Connect Asia 2026 will be taking place on 31 Mar & 1 Apr 2026!
 sections:
   - hero:
       title: GeospatialSG
-      subtitle: Enabling Singapore's Smart Nation vision through Geospatial for
-        Enhanced Public Services, Industry Innovation and Community Well-being.
+      subtitle: Geospatial Singapore is the whole-of-nation approach to collectively
+        maximise the use of geospatial for Singapore's social and economic
+        development.
       background: /images/GeospatialSG_Banner.png
       button: Contact Us
       url: /contact-us/
