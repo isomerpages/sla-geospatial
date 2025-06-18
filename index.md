@@ -21,7 +21,7 @@ sections:
           url: /public-good/onemap/onemap
         - title: Geospatial for Business & Sustainability
           description: ""
-          url: /business-sustainability/private-sector-use-cases
+          url: /business-sustainability/business-sector-use-cases
         - title: Geoworks
           description: ""
           url: /geoworks/about-geoworks/
