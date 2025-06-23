@@ -2,6 +2,7 @@ collections:
   geospatial-for-good:
     output: true
     order:
+      - Public Sector Use Cases.md
       - Enhancing Lives through Geospatial.md
       - OneMap/.keep
       - OneMap/OneMap.md
