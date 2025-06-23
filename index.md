@@ -18,12 +18,12 @@ sections:
         - title: Discover geospatial
           description: ""
           url: /discover-geospatial/about-us
-        - title: Geospatial for public good
+        - title: Geospatial for good
           description: ""
-          url: /public-good/enhancing-lives-through-geospatial
-        - title: Geospatial for Business & Sustainability
+          url: /geospatial-for-good/public-sector-use-cases
+        - title: Geospatial for you
           description: ""
-          url: /business-sustainability/business-sector-use-cases
+          url: /geospatial-for-you/onemap
         - title: Geoworks
           description: ""
           url: /geoworks/about-geoworks/
