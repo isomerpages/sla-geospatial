@@ -38,8 +38,8 @@ to locate and access various family-related support services.</p>
 <p>The DFS includes details about:</p>
 <p></p>
 <p>Family Service Centres (FSCs)</p>
-<p>Family Violence Specialist Centres</p>
-<p>Divorce Support Specialist Agencies</p>
+<p>Social Service Offices (SSOs)</p>
+<p>Student Care Centres</p>
 <p>Other social service organisations and their programmes</p>
 <p>Social service professionals use this directory to make appropriate referrals
 for their clients, while members of the public can use it to find nearby
