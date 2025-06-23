@@ -2,5 +2,6 @@ collections:
   resources:
     output: true
     order:
+      - Useful Links.md
       - Scholarships.md
       - Education.md
