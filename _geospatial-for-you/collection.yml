@@ -1,4 +1,5 @@
 collections:
   geospatial-for-you:
     output: true
-    order: []
+    order:
+      - OneMap.md
