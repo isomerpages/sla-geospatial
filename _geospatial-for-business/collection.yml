@@ -1,6 +1,0 @@
-collections:
-  geospatial-for-business:
-    output: true
-    order:
-      - Business Sector Use Cases.md
-      - Sustainability Use Cases.md
