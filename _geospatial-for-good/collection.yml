@@ -1,5 +1,5 @@
 collections:
-  geospatial-for-public-good:
+  geospatial-for-good:
     output: true
     order:
       - Enhancing Lives through Geospatial.md
