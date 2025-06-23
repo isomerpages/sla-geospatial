@@ -16,16 +16,16 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: Discover geospatial
-          description: ""
+          description: Learn about what we do
           url: /discover-geospatial/about-us
         - title: Geospatial for good
-          description: ""
+          description: Use cases by sectors
           url: /geospatial-for-good/public-sector-use-cases
         - title: Geospatial for you
-          description: ""
+          description: Platforms to access geospatial
           url: /geospatial-for-you/onemap
         - title: Geoworks
-          description: ""
+          description: Events and Challenges
           url: /geoworks/about-geoworks/
       variant: center
       backgroundColor: gray
