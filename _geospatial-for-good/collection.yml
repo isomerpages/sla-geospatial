@@ -2,6 +2,7 @@ collections:
   geospatial-for-good:
     output: true
     order:
+      - Sustainability Use Cases.md
       - Business Sector Use Cases.md
       - Healthcare Sector Use Cases.md
       - Social Sector Use Cases.md
