@@ -4,7 +4,7 @@ permalink: /geospatial-for-good/public-sector-use-cases/
 variant: tiptap
 description: ""
 ---
-<h4><strong>myResponder by SCD</strong></h4>
+<h4><strong>myResponder by SCDF</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/myResponder.png">
 </div>
