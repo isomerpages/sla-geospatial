@@ -24,7 +24,7 @@ sections:
         - title: Geospatial for you
           description: Platforms to access geospatial
           url: /geospatial-for-you/onemap
-        - title: Geoworks
+        - title: Geoworks Community
           description: Events and Challenges
           url: /geoworks/about-geoworks/
       variant: center
