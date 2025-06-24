@@ -4,8 +4,7 @@ permalink: /geospatial-for-good/social-sector-use-cases/
 variant: tiptap
 description: ""
 ---
-<p><strong>Barrier-free Access (BFA) Routing</strong>
-</p>
+<h4><strong>Barrier-free Access (BFA) Routing</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/bfa.png">
 </div>
@@ -24,8 +23,7 @@ Ang Mo Kio, Bukit Merah, Punggol, Tanglin etc, are now available in OneMap’s
 mobile apps as an additional mode of wayfinding, supplementing the existing
 public transport, cycling and driving modes.</p>
 <p></p>
-<p><strong>Directory of Family Services</strong>
-</p>
+<h4><strong>Directory of Family Services</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MSF_directory_of_family_services.png">
 </div>
@@ -36,11 +34,20 @@ as a comprehensive resource for social service professionals and the public
 to locate and access various family-related support services.</p>
 <p></p>
 <p>The DFS includes details about:</p>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Family Service Centres (FSCs)</p>
+</li>
+<li>
 <p>Social Service Offices (SSOs)</p>
+</li>
+<li>
 <p>Student Care Centres</p>
+</li>
+<li>
 <p>Other social service organisations and their programmes</p>
+</li>
+</ul>
 <p>Social service professionals use this directory to make appropriate referrals
 for their clients, while members of the public can use it to find nearby
 services that meet their needs.</p>
