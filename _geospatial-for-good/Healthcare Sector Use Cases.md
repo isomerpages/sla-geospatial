@@ -4,8 +4,7 @@ permalink: /geospatial-for-good/healthcare-sector-use-cases/
 variant: tiptap
 description: ""
 ---
-<p><strong>Living Asset Map by SingHealth</strong>
-</p>
+<h4><strong>Living Asset Map by SingHealth</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LAMP.png">
 </div>
@@ -19,8 +18,7 @@ gaps in healthcare provision. This in turn supports social prescribing
 which connects individuals with community resources and support to improve
 their health and wellbeing.</p>
 <p></p>
-<p><strong>Digital Local Connect by MOHT</strong>
-</p>
+<h4><strong>Digital Local Connect by MOHT</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DLC.png">
 </div>
