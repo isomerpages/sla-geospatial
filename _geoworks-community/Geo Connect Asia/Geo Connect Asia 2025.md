@@ -5,8 +5,7 @@ variant: tiptap
 description: Geo Connect Asia 2025
 third_nav_title: Geo Connect Asia
 ---
-<p><strong>Opening Ceremony Launch</strong>
-</p>
+<h4><strong>Opening Ceremony Launch</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 632px;" height="auto" width="100%" alt="" src="https://geoworks.sla.gov.sg/images/DSC09705.jpg">
 </div>
@@ -16,19 +15,17 @@ Land Authority (SLA) and Mr Rupert Owen, Co-Founder of Geo Connect Asia.
 Following welcome remarks by Mr Rupert Owen, Mr Yeoh announced the official
 expansion of two key initiatives: the Living Asset MaP (LAMP) and Barrier-Free-Access
 (BFA).</p>
-<p><strong>Living Asset MaP (LAMP) expanding to more precints across Singapore</strong>
-</p>
+<h4><strong>Living Asset MaP (LAMP) expanding to more precints across Singapore</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 632px;" height="auto" width="100%" alt="" src="https://geoworks.sla.gov.sg/images/Social_prescribing.png">
 </div>
 <p>Living Asset MaP (LAMP) is a community-centric initiative co-developed
-by SLA and SingHealth Community Hospitals, and supported by the MOH Office
+by SLA and SingHealth Community Hospitals and supported by the MOH Office
 for Healthcare Transformation to enable social prescribing. From its pilot
 in Sengkang, LAMP is now expanding to more precincts across Singapore,
 connecting more seniors to local activities and services which will enable
 them to stay active and engaged, improving their overall health and wellbeing.</p>
-<p><strong>Expansion of Barrier-Free-Access Mapping from Outdoor to Indoor</strong>
-</p>
+<h4><strong>Expansion of Barrier-Free-Access Mapping from Outdoor to Indoor</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 632px;" height="auto" width="100%" alt="" src="https://geoworks.sla.gov.sg/images/BFA_TamasekHouse_165.jpg">
 </div>
@@ -42,8 +39,7 @@ strengthened through a tripartite MOU signed in November 2024 between SLA,
 the Real Estate Developers’ Association of Singapore (REDAS) and SG Enable,
 which aims to extend BFA mapping from outdoor routes to indoor spaces including
 shopping malls, creating a seamless navigation experience.</p>
-<p><strong>Singapore Joins Global Efforts to Boost Land Motion and Climate Monitoring Efforts</strong>
-</p>
+<h4><strong>Singapore Joins Global Efforts to Boost Land Motion and Climate Monitoring Efforts</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 632px;" height="auto" width="100%" alt="" src="https://geoworks.sla.gov.sg/images/DSC09743.jpg">
 </div>
@@ -69,8 +65,7 @@ land, and impacts from underground construction.</p>
 <p>The MMOU reflects Singapore’s bold commitment to international cooperation,
 and ensures that we have the tools, data and partnerships needed to build
 long-term urban and climate resilience.</p>
-<p><strong>ASEAN Geospatial Challenge 2025 and Map Our World 2024</strong>
-</p>
+<h4><strong>ASEAN Geospatial Challenge 2025 and Map Our World 2024</strong></h4>
 <p>The <strong>ASEAN Geospatial Challenge 2025</strong> brings youth in the
 ASEAN region together to use geospatial technology and information to support
 nations’ efforts to achieve the United Nation’s Sustainable Development
@@ -104,8 +99,7 @@ Leica Geosystems, Maxar, SISV and Trimble.</p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 632px;" height="auto" width="100%" alt="" src="https://geoworks.sla.gov.sg/images/DSC09784.jpg">
 </div>
-<p><strong>Exhibition Tour led by SLA Chairman, H.E. Dr. Eng. Mohammed Al Sayel, and Delegates</strong>
-</p>
+<h4><strong>Exhibition Tour led by SLA Chairman, H.E. Dr. Eng. Mohammed Al Sayel, and Delegates</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 632px;" height="auto" width="100%" alt="" src="https://geoworks.sla.gov.sg/images/DSC09819.jpg">
 </div>
@@ -119,8 +113,7 @@ LAMP, Digital Underground, the National 3D Mapping Programme, and SiReNT
 – Singapore’s national satellite positioning infrastructure. The delegation
 then visited the Thailand and Sabah Pavilions, and concluded with showcases
 by a few prominent leading companies.</p>
-<p><strong>Panel: Geo + Augmented Intelligence: Transforming Data into Actionable Insights</strong>
-</p>
+<h4><strong>Panel: Geo + Augmented Intelligence: Transforming Data into Actionable Insights</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 632px;" height="auto" width="100%" alt="" src="https://geoworks.sla.gov.sg/images/DSC00191.jpg">
 </div>
@@ -153,8 +146,7 @@ tools like LLMs to assess road planning and environmental impact.</p>
 <p>Mr Mawer called for open-source formats to fuel innovation, as the panel
 closed with a rallying cry to geospatial professionals: don’t silo your
 data— collaborate and blend it to solve global challenges!</p>
-<p><strong>Digital Underground Connect 2025 (DUConnect)</strong>
-</p>
+<h4><strong>Digital Underground Connect 2025 (DUConnect)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 632px;" height="auto" width="100%" alt="" src="https://geoworks.sla.gov.sg/images/DSC00162.jpg">
 </div>
@@ -176,8 +168,7 @@ reducing risks, and unlocking new possibilities for urban innovation.
 <br>
 <br>Powerful ideas and partnerships emerged at DUConnect 2025—we’re just beginning
 to dig into the future.</p>
-<p><strong>The Asian Aerial Mapping Forum 2025</strong>
-</p>
+<h4><strong>The Asian Aerial Mapping Forum 2025</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 632px;" height="auto" width="100%" alt="" src="https://geoworks.sla.gov.sg/images/aerial_mapping.png">
 </div>
@@ -197,8 +188,7 @@ academia, and the public sector, offering fresh insights, best practices,
 and novel applications that show how these "eye-in-the-sky" technologies
 are transforming how we plan our urban future in the areas of land and
 infrastructure management, resource optimisation, and environmental monitoring.</p>
-<p><strong>Closing Plenary: Mainstreaming Geospatial for Good: From Niche to Necessity</strong>
-</p>
+<h4><strong>Closing Plenary: Mainstreaming Geospatial for Good: From Niche to Necessity</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 632px;" height="auto" width="100%" alt="" src="https://geoworks.sla.gov.sg/images/DSC01104.jpg">
 </div>
