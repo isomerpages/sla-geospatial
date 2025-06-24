@@ -20,8 +20,7 @@ and going global.</p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 632px;" height="auto" width="100%" alt="" src="https://geoworks.sla.gov.sg/images/1709708349322.jpg">
 </div>
-<p><strong>Memorandum of Understanding Signing Ceremonies</strong>
-</p>
+<h4><strong>Memorandum of Understanding Signing Ceremonies</strong></h4>
 <p>The event also saw the signing of 2 Memorandum of Understanding with SingHealth
 Community Hospitals (SCH) and MOH Office for Healthcare Transformation
 (MOHT) on co-developing web-based map services to identify health and social
@@ -35,20 +34,20 @@ healthcare.</p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 632px;" height="auto" width="100%" alt="" src="https://geoworks.sla.gov.sg/images/1709708350811.jpg">
 </div>
-<p><strong>OneMap GPT Challenge Winning Prototypes<br></strong>
+<h4><strong>OneMap GPT Challenge Winning Prototypes</strong></h4>
+<p>
 <br>Congratulations to&nbsp;winners of the inaugural OneMap GPT Challenge,
 Huawei and BuzzAR!
-<br>
 <br>During the Opening Ceremony, Ms Megan Ann Pang,&nbsp;SLA’s Principal Geospatial
 Consultant presented on the winning prototype interfaces and how they utilise
 AI, location information and map visualisation to open limitless potential
-across industries. Watch the presentation <a href="https://www.linkedin.com/posts/singapore-land-authority_icymi-geospatialpowered-gca2024-activity-7174623548018233344-v4DN?utm_source=share&amp;utm_medium=member_desktop" rel="noopener noreferrer nofollow" target=""><u>here</u></a>.</p>
+across industries. Watch the presentation <a href="https://www.linkedin.com/posts/singapore-land-authority_icymi-geospatialpowered-gca2024-activity-7174623548018233344-v4DN" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 632px;" height="auto" width="100%" alt="" src="https://geoworks.sla.gov.sg/images/Screenshot_2024_03_20_114548.png">
 </div>
-<p><strong>Touring of SLA Booth</strong>
-<br>
+<h4><strong>Touring of SLA Booth</strong></h4>
+<p>
 <br>SLA Chairman, Mr Yeoh Oon Jin then took a tour of the exhibition grounds,
 first stopping at the SLA booth where the winners of SLA’s OneMap GPT Challenge,
 Huawei and BuzzAR presented on their prototypes.</p>
@@ -68,8 +67,8 @@ SLA.&nbsp;</p>
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 632px;" height="auto" width="100%" alt="" src="https://geoworks.sla.gov.sg/images/1709868359926.jpg">
 </div>
 <p></p>
-<p><strong>Panel Discussions</strong>
-<br>
+<h4><strong>Panel Discussions</strong></h4>
+<p>
 <br>SLA also took to the stage at Geo Connect Asia&nbsp;on 6 March 2024, steering
 two insightful panel discussions that delved into the future of public
 health and urban development using geospatial innovation and solutions.
@@ -103,8 +102,7 @@ whether they are the solution to connect better with our communities.</p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 632px;" height="auto" width="100%" alt="" src="https://geoworks.sla.gov.sg/images/1709789336040.jpg">
 </div>
-<p><strong>Day 2 Award Presentation &amp; Closing Plenary<br></strong>
-</p>
+<h4><strong>Day 2 Award Presentation &amp; Closing Plenary<br></strong></h4>
 <p>Congratulations to our ASEAN Geospatial Challenge 2024 Distinction winning
 teams who received their awards on Day 2 (7 March 2024) of Geo Connect
 Asia 2024.&nbsp;</p>
@@ -120,7 +118,10 @@ Management</p>
 </div>
 <p><em>About the ASEAN Geospatial Challenge:<br>Targeted at students from Institutes of Higher Learning, Geospatial Youth Edition brings youth in the ASEAN region together to use geospatial technology and information to support nations in achieving their Sustainable Development Goals (SDGs).</em>
 <br>
-<br>Day 2 of Geo Connect Asia was wrapped up with the closing plenary&nbsp;led
+<br>
+</p>
+<h4><strong>Closing Plenary</strong></h4>
+<p>Day 2 of Geo Connect Asia was wrapped up with the closing plenary&nbsp;led
 by co-hosts, SLA CE, Mr Colin Low and MPA ACE,&nbsp;Mr&nbsp;David Foo,
 along with distinguished speakers A/Prof&nbsp;Gan Wee Hoe from SingHealth
 Community Hospitals, Dr Jani Thuaibah Isa Tanzil from National University
