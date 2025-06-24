@@ -4,9 +4,7 @@ permalink: /geospatial-for-good/public-sector-use-cases/
 variant: tiptap
 description: ""
 ---
-<p><strong>myResponder by SCDF</strong>
-</p>
-<p></p>
+<h4><strong>myResponder by SCD</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/myResponder.png">
 </div>
@@ -26,8 +24,7 @@ radius. The platform also displays the locations of the nearest Automated
 External Defibrillators (AEDs) for first aid responders to obtain while
 getting to the person in need of help.</p>
 <p></p>
-<p><strong>OneService by MSO</strong>
-</p>
+<h4><strong>OneService by MSO</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OneService.png">
 </div>
