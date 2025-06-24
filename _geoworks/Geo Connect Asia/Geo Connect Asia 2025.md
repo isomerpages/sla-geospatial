@@ -5,13 +5,17 @@ variant: tiptap
 description: Geo Connect Asia 2025
 third_nav_title: Geo Connect Asia
 ---
-<p>The&nbsp;<strong>fifth edition</strong>&nbsp;of&nbsp;<strong>Geo Connect Asia 2025</strong>&nbsp;commenced
+<p><strong>Opening Ceremony Launch</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 632px;" height="auto" width="100%" alt="" src="https://geoworks.sla.gov.sg/images/DSC09705.jpg">
+</div>
+<p>The <strong>fifth edition</strong> of <strong>Geo Connect Asia 2025</strong> commenced
 with an opening ceremony led by Mr Yeoh Oon Jin, Chairman of Singapore
 Land Authority (SLA) and Mr Rupert Owen, Co-Founder of Geo Connect Asia.
 Following welcome remarks by Mr Rupert Owen, Mr Yeoh announced the official
 expansion of two key initiatives: the Living Asset MaP (LAMP) and Barrier-Free-Access
 (BFA).</p>
-<p></p>
 <p><strong>Living Asset MaP (LAMP) expanding to more precints across Singapore</strong>
 </p>
 <p>Living Asset MaP (LAMP) is a community-centric initiative co-developed
