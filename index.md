@@ -26,7 +26,7 @@ sections:
           url: /geospatial-for-you/onemap
         - title: Geoworks Community
           description: Events and Challenges
-          url: /geoworks/about-geoworks/
+          url: /geoworks/about-geoworks-community/
       variant: center
       backgroundColor: gray
       size: sm
