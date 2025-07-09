@@ -7,7 +7,7 @@ description: Geospatial Centres
 <h2>GeoWorks</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Geoworks.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_8116.jpg">
 </div>
 <p>GeoWorks brings together working professionals and passionate individuals
 across the geospatial landscape. Our aim is to create a vibrant community
