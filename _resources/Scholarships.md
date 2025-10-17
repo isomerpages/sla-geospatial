@@ -17,11 +17,11 @@ Allowance, Internship opportunities and Student Exchange sponsorship.</p>
 <p>•Find out more and apply at&nbsp;<a href="https://brightsparks.com.sg/profile/sla/geospatial.php" rel="noopener noreferrer nofollow" target="_blank"><u>BrightSparks</u></a>.</p>
 <p></p>
 <h3>Esri Young Scholar Award</h3>
-<p>Esri, a GeoWorks GeoPartner, is holding a challenge to encourage students
-to kickstart their GIS careers. The Esri Young Scholar Award is an opportunity
-for one university student to gain a global audience and industry experience
-by tackling real-world challenges. This prestigious award gives you the
-chance to gain valuable exposure and a foot in the door of the GIS field.</p>
+<p>Esri is holding a challenge to encourage students to kickstart their GIS
+careers. The Esri Young Scholar Award is an opportunity for one university
+student to gain a global audience and industry experience by tackling real-world
+challenges. This prestigious award gives you the chance to gain valuable
+exposure and a foot in the door of the GIS field.</p>
 <p></p>
 <p>For more details, please visit:&nbsp;<a href="https://esrisingapore.com.sg/esri-young-scholar-award" rel="noopener noreferrer nofollow" target="_blank"><u>Esri Young Scholar Award</u></a>
 </p>
