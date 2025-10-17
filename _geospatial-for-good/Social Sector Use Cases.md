@@ -61,9 +61,7 @@ address real-world socio-healthcare issues.</p>
 <p>These student projects demonstrate how geospatial technologies can be
 harnessed to build stronger, healthier, and more inclusive communities.</p>
 <p>
-<br><strong>1. ReMind: Supporting Dementia &amp; Community-Assisted Eldercare</strong>
-</p>
-<p><em>(Nanyang Technological University)</em>
+<br><strong>1. ReMind: Supporting Dementia &amp; Community-Assisted Eldercare </strong><em>(Nanyang Technological University)</em>
 </p>
 <p>With dementia cases in Singapore projected to increase from 82,000 today
 to 152,000 by 2030, <strong>ReMind</strong> applies geospatial technology
@@ -93,9 +91,7 @@ Points on OneMap and forming a community-centric safety network.</p>
 <p>The project has attracted the interest of <strong>DementiaSG</strong>,
 which is exploring potential integration with its national Cara platform
 to strengthen dementia-friendly navigation and support.</p>
-<p><strong>2. VapeWatch: Geospatial Insights to Identify and Respond to Emerging Vaping Hotspots</strong>
-</p>
-<p><em>(Singapore Management University)</em>
+<p><strong>2. VapeWatch: Geospatial Insights to Identify and Respond to Emerging Vaping Hotspots </strong><em>(Singapore Management University)</em>
 </p>
 <p>With vaping cases rising to&nbsp;2,500 in just the first half of 2025, <strong>VapeWatch </strong>demonstrates
 how&nbsp;<strong>geospatial intelligence</strong>&nbsp;can be used to strengthen
@@ -130,12 +126,8 @@ preventive programmes.&nbsp;</p>
 <p>In the future, VapeWatch can be developed into a broader&nbsp;<strong>Youth Risk Geospatial Intelligence Platform,</strong> capable
 of supporting&nbsp;early intervention and predictive analytics&nbsp;for
 issues such as mental health crises, educational support, and youth development.</p>
-<p>
-<br>
-</p>
-<p><strong>3. CareLink: Targeted Aid Distribution &amp; Outreach for Vulnerable Communities</strong>
-</p>
-<p><em>(Singapore Institute of Management – University at Buffalo)</em>
+<p></p>
+<p><strong>3. CareLink: Targeted Aid Distribution &amp; Outreach for Vulnerable Communities </strong><em>(Singapore Institute of Management – University at Buffalo)</em>
 </p>
 <p>In 2024, Singapore generated 784,000 tonnes of food waste, even as some
 households continued to experience food insecurity. <strong>CareLink </strong>bridges
@@ -156,9 +148,7 @@ and equitable outreach.</p>
 waste reduction into a community-driven aid network, using <strong>geospatial intelligence</strong> to
 match surplus to need.</p>
 <p></p>
-<p><strong>4. Purposeful Event: Gamifying Wellness for Active Ageing</strong>
-</p>
-<p><em>(Institute of Technical Education)</em>
+<p><strong>4. Purposeful Event: Gamifying Wellness for Active Ageing </strong><em>(Institute of Technical Education)</em>
 </p>
 <p>As Singapore’s population ages, <strong>Purposeful Event</strong> encourages
 seniors to remain socially and physically active by connecting them to
