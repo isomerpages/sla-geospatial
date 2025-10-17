@@ -11,7 +11,7 @@ sections:
       subtitle: Geospatial Singapore is the whole-of-nation approach to collectively
         maximise the use of geospatial for Singapore's social and economic
         development.
-      background: /images/GeospatialSG_Banner.png
+      background: /images/GeospatialSG_Banner_darker.png
       button: Contact Us
       url: /contact-us/
       key_highlights:
