@@ -4,18 +4,6 @@ permalink: /discover-geospatial/geo-centres/
 variant: tiptap
 description: Geospatial Centres
 ---
-<h2>GeoWorks</h2>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_8116.jpg">
-</div>
-<p>GeoWorks brings together working professionals and passionate individuals
-across the geospatial landscape. Our aim is to create a vibrant community
-where innovation thrives through meaningful connections. Through events
-and knowledge-sharing sessions, we hope to create opportunities for potential
-collaborations and knowledge exchange within the community.</p>
-<p></p>
-<hr>
 <h2>Geospatial Trusted Centre</h2>
 <p>As part of the Government Data Architecture overseen by the Smart Nation
 Group, the Geospatial Trusted Centre was established in 2019 to support
