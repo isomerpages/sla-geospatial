@@ -4,25 +4,41 @@ permalink: /geospatial-for-good/social-sector-use-cases/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Barrier-free Access (BFA) Routing</strong></h4>
+<h4><strong>SLA Barrier-free Access (BFA) Routing</strong></h4>
+<p>Developed by the Singapore Land Authority (SLA), Barrier-Free Access (BFA)
+Routing provides wheelchair-friendly routes that have been tested and verified
+by wheelchair users. These routes guide users to safe, accessible paths,
+as not all routes accommodate wheelchair users.</p>
+<p><strong>What Does BFA Routing Do?</strong>
+</p>
+<p>BFA Routing highlight routes that are more suitable for wheelchair users
+by avoiding common physical barriers such as stairs, steep gradients, and
+inaccessible walkways. By reducing uncertainty, it supports safer, more
+independent movement through the city.</p>
+<p><strong>Where Is It Available?</strong>
+</p>
+<p>BFA routing is currently available in selected areas across Singapore,
+including:</p>
+<p>Punggol, Ang Mo Kio, Kallang, Marina South, the Museum area, parts of
+the Downtown Core, Bukit Merah, River Valley, NUS Campus, West Coast &amp;
+Clementi, Tanglin, Orchard, and Outram.</p>
+<p>The Bedok and Tampines areas are expected to be ready by early March 2026.
+Coverage will continue to expand as more routes are tested and verified.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bfa.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
 </div>
-<p>SLA has worked with various stakeholders, including SG Enable, to map
-barrier-free routes to enable wheelchair users to move about easily. This
-collaboration is part of SLA’s support for the Enabling Masterplan 2030
-which sets out the vision for Singapore as an inclusive society by 2030.
-In this initiative, data relating to routes that are barrier-free such
-as those with wheelchair-accessible covered linkways, ramps, footpaths,
-pedestrian crossings, overhead bridges with lifts are collected and mapped
-in 9 planning areas across Singapore. A total of 1,000km of BFA routes
-have been mapping and a further 5,000km is planned for the coming years.</p>
-<p></p>
-<p>The BFA routing function for 9 planning areas, including areas such as
-Ang Mo Kio, Bukit Merah, Punggol, Tanglin etc, are now available in OneMap’s
-mobile apps as an additional mode of wayfinding, supplementing the existing
-public transport, cycling and driving modes.</p>
-<p></p>
+<p><strong>How we can use Barrier Free Routing:</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.png">
+</div>
+<p>Accessibility is not one-size-fits-all. SLA’s Barrier-Free Access Routing
+transform lived experience into shared knowledge, making movement through
+Singapore more predictable, empowering, and inclusive. Each verified route
+brings us closer to a city where everyone can navigate with dignity and
+confidence.</p>
+<p>For any enquiries, please write to: <a href="https://go.gov.sg/bfa-enquires" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/bfa-enquires</a>
+</p>
 <h4><strong>Directory of Family Services</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MSF_directory_of_family_services.png">
@@ -168,3 +184,12 @@ and redeem small prizes, fostering a sense of achievement and engagement.</p>
 <p><em>Map of community activities and routing capabilities</em>
 <br>By blending geospatial mapping with behavioural design, <strong>Purposeful Event</strong> helps
 create more connected, active, and inclusive communities for seniors.</p>
+<p><strong>Advancing Geospatial for Social Good</strong>
+</p>
+<p>These student projects highlight how geospatial data and technology can
+enhance social and health outcomes, from dementia care and youth wellbeing,
+to addressing social vulnerability and active ageing. Through future socio-healthcare
+editions of GeoEngage and continued collaboration with sector agencies
+and partners, SLA aims to deepen geospatial innovation and partnerships
+that strengthen Singapore’s community and care ecosystem.</p>
+<p></p>
