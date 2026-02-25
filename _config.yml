@@ -2,13 +2,13 @@ title: GeospatialSG
 url: https://geospatial.sla.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#b23954"
-  secondary-color: "#b68293"
+  primary-color: "#80c342"
+  secondary-color: "#007696"
   media-colors:
     - title: media-color-one
       color: "#49759a"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#b23954"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four

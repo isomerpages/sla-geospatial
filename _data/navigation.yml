@@ -1,16 +1,16 @@
-logo: /images/Screenshot_2024_02_27_122203.png
+logo: /images/GeospatialSG_logo_Updated.png
 links:
-  - title: About
-    url: /about
-  - title: Initiatives
-    collection: initiatives
-  - title: Opportunities
-    collection: opportunities
+  - title: Discover Geospatial
+    collection: discover-geospatial
+  - title: Geospatial For Good
+    collection: geospatial-for-good
+  - title: Geospatial for you
+    collection: geospatial-for-you
+  - title: Geoworks Community
+    collection: geoworks-community
   - title: Resources
     collection: resources
   - title: Media Hub
     resource_room: true
-  - title: Events
-    url: /events
   - title: Contact Us
     url: /contact-us/

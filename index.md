@@ -4,27 +4,29 @@ title: GeospatialSG
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Geo Connect Asia 2026 will be taking place on 31 Mar & 1 Apr 2026!
 sections:
   - hero:
       title: GeospatialSG
-      subtitle: A Whole-of-Government (WOG) Initiative
-      background: /images/hero-banner.png
+      subtitle: Geospatial Singapore is the whole-of-nation approach to collectively
+        maximise the use of geospatial for Singapore's social and economic
+        development.
+      background: /images/GeospatialSG_Banner_darker.png
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Initiatives
-          description: SG Geospatial Master Plan
-          url: /initiatives/masterplan
-        - title: Opportunities
-          description: Career & Education
-          url: /opportunities/careers
-        - title: Resources
-          description: GeoPlatforms & Links
-          url: /resources/geoplatforms
-        - title: Events
-          description: Upcoming Events
-          url: /events/
+        - title: Discover geospatial
+          description: Learn about what we do
+          url: /discover-geospatial/about-us
+        - title: Geospatial for good
+          description: Use cases by sectors
+          url: /geospatial-for-good/public-sector-use-cases
+        - title: Geospatial for you
+          description: Platforms to access geospatial
+          url: /geospatial-for-you/onemap
+        - title: Geoworks Community
+          description: Events and Challenges
+          url: /geoworks/about-geoworks-community/
       variant: center
       backgroundColor: gray
       size: sm
@@ -66,18 +68,4 @@ sections:
         insights from geospatial data for enhanced decision making.
       alt: Image alt text
       image: /images/analysis.jpeg
-  - textcards:
-      title: GLOBAL GEOSPATIAL DEVELOPMENTS
-      id: textcards
-      cards:
-        - title: UN Global Geospatial Information Management
-          description: The UN-GGIM sets the agenda for global geospatial information
-            development.
-          linktext: Learn more
-          url: https://ggim.un.org/
-        - title: World Bank Group
-          description: World Bank projects help cities use geospatial data for sustainable
-            planning.
-          linktext: Global Platform for Sustainable Cities
-          url: https://www.thegpsc.org/
 ---

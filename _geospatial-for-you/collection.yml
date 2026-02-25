@@ -1,0 +1,7 @@
+collections:
+  geospatial-for-you:
+    output: true
+    order:
+      - OneMap.md
+      - INLIS.md
+      - SiReNT.md

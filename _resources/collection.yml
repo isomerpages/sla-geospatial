@@ -2,6 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - GeoPlatforms & Data Resources.md
-      - Companies.md
+      - Education.md
+      - Scholarships.md
       - Useful Links.md
