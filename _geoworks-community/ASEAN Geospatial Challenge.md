@@ -141,6 +141,18 @@ prize categories.</p>
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.325px;" height="auto" width="100%" alt="" src="https://www.aseangeospatial.org/images/Judging_Criteria.png">
 </div>
 <p></p>
+<h3>Judges</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AGC26_Judges_Photos.png">
+</div>
+<p></p>
+<h3>Sponsors</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AGC26_Sponsors.png">
+</div>
+<p></p>
 <p>Please refer to the AGC 26&nbsp;<a href="https://www.aseangeospatial.org/files/AGC_26_Terms_and_conditions.pdf" rel="noopener nofollow" target="_blank"><u>Terms and Conditions </u></a>and&nbsp;
 <a href="https://www.aseangeospatial.org/files/AGC_26_FAQ.pdf" rel="noopener nofollow" target="_blank"><u>Frequently Asked Questions</u>
 </a>&nbsp;for more information.</p>
@@ -150,6 +162,6 @@ prize categories.</p>
 <p>Video Montage of Past Year's Challenge:</p>
 <p>Enjoy the video montage of AGC 2025!</p>
 <div class="iframe-wrapper">
-<iframe style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; padding: 0px; border: 0px;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/h7uYvPz8_58?si=5vjRxvtMrrMut0Gu"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; padding: 0px; border: 0px;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/h7uYvPz8_58?si=5vjRxvtMrrMut0Gu"></iframe>
 </div>
 <p></p>
