@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - About GeoWorks Community.md
+      - Geo Connect Asia/Geo Connect Asia 2026.md
       - Geo Connect Asia/.keep
       - Geo Connect Asia/Geo Connect Asia 2025.md
       - Geo Connect Asia/Geo Connect Asia 2024.md
