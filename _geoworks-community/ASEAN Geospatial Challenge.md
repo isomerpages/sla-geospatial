@@ -159,9 +159,61 @@ prize categories.</p>
 <p>For any inquiries regarding the challenge, please email <a href="https://www.aseangeospatial.org/files/AGC_26_Important_Notes_for_Participants.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>geoworks@sla.gov.sg</u></a>
 </p>
 <p></p>
-<p>Video Montage of Past Year's Challenge:</p>
-<p>Enjoy the video montage of AGC 2025!</p>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; padding: 0px; border: 0px;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/h7uYvPz8_58?si=5vjRxvtMrrMut0Gu"></iframe>
-</div>
+<h3>Winning Teams</h3>
+<p><strong>Distinction Award</strong>
+</p>
+<p><strong>Team</strong>: AInsightGeo</p>
+<p><strong>School</strong>: Universitas Gadjah Mada​</p>
+<p><strong>Project Title</strong>: GEOSPECTRA: AI-Based 3D Modeling for Rooftop
+Photovoltaic Potential Assessment and Property Tax Valuation ​</p>
+<p>&nbsp;</p>
+<p><strong>Team</strong>: EMPATH</p>
+<p><strong>School</strong>: University of Santo Tomas​</p>
+<p><strong>Project Title</strong>: P.A.T.H.: Plastic Assessment Tracking
+&amp; Hotspots ​</p>
 <p></p>
+<p></p>
+<p></p>
+<p><strong>Excellence Award</strong>
+</p>
+<p><strong>Team</strong>: Tim YuGIS</p>
+<p><strong>School</strong>: University of the Philippines Los Banos​</p>
+<p><strong>Project Title</strong>: Low-Cost Urban Digital Twin-based Smart
+Traffic Management Dashboard ​</p>
+<p>&nbsp;</p>
+<p><strong>Team</strong>: UrbanFlow</p>
+<p><strong>School</strong>: National University of Singapore</p>
+<p><strong>Project Title</strong>: Transit Comfort Dashboard ​</p>
+<p>&nbsp;</p>
+<p><strong>Team</strong>: The Awseek</p>
+<p><strong>School</strong>: Universitas Pertamina​</p>
+<p><strong>Project Title</strong>: SanPay: Smart Payment for Sustainable
+Living</p>
+<p>&nbsp;</p>
+<p><strong>Merit Award</strong>
+</p>
+<p><strong>Team</strong>: UB Powerpuff Girls​</p>
+<p><strong>School</strong>: University at Buffalo – Singapore Institute of
+Management​</p>
+<p><strong>Project Title</strong>: Socio-economic Impact on Vaping​</p>
+<p>&nbsp;</p>
+<p><strong>Team</strong>: HEATMAPx​</p>
+<p><strong>School</strong>: Universiti Teknologi Malaysia​</p>
+<p><strong>Project Title</strong>: Mapping Urban Heat: UAV Thermal Imaging
+and Surface Type Analysis for Climate Action ​</p>
+<p>&nbsp;</p>
+<p><strong>Team</strong>: The Survivors</p>
+<p><strong>School</strong>: Kasetsart University Sriracha Campus​</p>
+<p><strong>Project Title</strong>: Thailand Earthquake Risk Mapping and Alert
+System ​</p>
+<p>&nbsp;</p>
+<p><strong>Team</strong>: Five Hundred</p>
+<p><strong>School</strong>: Universiti Teknologi Malaysia​</p>
+<p><strong>Project Title</strong>: CAREFINDER: Your Guide to Local Healthcare
+Facilities ​</p>
+<p>&nbsp;</p>
+<p><strong>Team</strong>: Route Space</p>
+<p><strong>School</strong>: Kasetsart University Sriracha Campus​</p>
+<p><strong>Project Title</strong>: RouteScape ​</p>
+<p></p>
+<p>Video Montage of This Year's Challenge:</p>
