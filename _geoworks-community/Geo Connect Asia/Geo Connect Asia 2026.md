@@ -39,5 +39,7 @@ seas.
 <br>
 <br>These projects serve as a compelling demonstration that geospatial technology
 encompasses not just maps but people, places, and potential. Congratulations
-to all AGC winners for expanding the horizons of what geospatial</p>
-<p>technology can achieve 👏</p>
+to all AGC winners for expanding the horizons of what geospatial technology
+can achieve 👏</p>
+<p></p>
+<p></p>
