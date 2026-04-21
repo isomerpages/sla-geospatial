@@ -224,7 +224,11 @@ of community resources.</p>
 <p>Building on the discussion, SLA and MSF would work towards identifying
 a small number of pilot use cases, addressing priority data requirements,
 and exploring suitable data sharing arrangements to support further collaboration
-across agencies and partners in the socio-healthcare ecosystem.</p>
+across agencies and partners in the socio-healthcare ecosystem</p>
+<p>.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RT_1.jpg">
+</div>
 <p>The <strong>Socio-Healthcare Forum</strong> brought together leaders across
 social services, community care and healthcare to share insights and use
 cases, and how can we better identify needs on the ground and respond earlier
