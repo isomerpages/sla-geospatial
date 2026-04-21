@@ -84,8 +84,9 @@ less conspicuous, their significance does not decrease.</p>
 <p>Context, interpretation and dependability continue to rely upon them—particularly
 in more intricate environments, from densely populated cities to maritime
 sectors where circumstances are perpetually shifting.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Panel_1.jpg">
 </div>
+<p></p>
+<p></p>
 <p></p>
