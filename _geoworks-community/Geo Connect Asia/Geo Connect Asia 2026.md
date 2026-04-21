@@ -91,5 +91,21 @@ sectors where circumstances are perpetually shifting.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Panel_2.jpg">
 </div>
+<p>The second panel, facilitated by Ms Monique Viengkhou, Strategy and Operations
+Head, Public Policy, APJ at Amazon Web Services and including Dr Victor
+Khoo, Chief Surveyor and Director of Survey &amp; Geomatics of Singapore
+Land Authority and Mr Marc Lepage, Principal IT Specialist Technology Innovation
+at Asian Development Bank, explored how AI is expediting this transformation.</p>
+<p>From accelerating workflows to facilitating novel analytical approaches,
+AI is broadening possibilities—yet it does not supersede the fundamentals.
+Robust data, precise standards and comprehensive understanding of the geospatial
+value chain remain essential.</p>
+<p>An example shared by Marc emphasised the importance of this approach.
+Following severe flash flood damage to a major water infrastructure project
+in Kathmandu, it demonstrated the necessity for predictive mapping—to better
+model risk and guide more resilient decision-making.</p>
+<p>Moving forward, the trajectory points towards more integrated and dynamic
+environments, consolidating data across land, sea and infrastructure into
+"live" digital twins.</p>
 <p></p>
 <p></p>
