@@ -33,8 +33,11 @@ engaged personally, listening directly to teams about the rationale and
 impact underlying their solutions.</p>
 <p>🔹 𝐆𝐄𝐎𝐒𝐏𝐄𝐂𝐓𝐑𝐀 from Indonesia leverages AI-driven 3D modelling
 to assess rooftop solar potential while improving property tax accuracy—bringing
-together sustainability and smarter urban management.
-<br>
+together sustainability and smarter urban management.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AGC_students_2.jpg">
+</div>
+<p>
 <br>🔹 𝐏.𝐀.𝐓.𝐇. (Plastic Assessment Tracking &amp; Hotspots) from the
 Philippines maps how plastic moves through urban waterways, enabling cities
 to act upstream—targeting pollution at its source before it reaches our
