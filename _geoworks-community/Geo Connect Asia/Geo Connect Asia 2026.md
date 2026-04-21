@@ -17,6 +17,9 @@ Law and Ministry of Social and Family Development, Mr Eric Chua, delivered
 the opening address in which he emphasised Singapore's advancement under
 the Singapore Geospatial Master Plan—and the emerging frontier of implementing
 geospatial technology more transformatively throughout society.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mr_Eric_Chua.jpg">
+</div>
 <p>This transformation is already materialising through robust partnerships
 and practical applications. Projects such as the Living Asset Map (LAMP),
 which SLA jointly developed with SingHealth Community Hospitals, are facilitating
@@ -42,24 +45,13 @@ encompasses not just maps but people, places, and potential. Congratulations
 to all AGC winners for expanding the horizons of what geospatial technology
 can achieve 👏</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mr_Eric_Chua.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OC_mechanism.jpg">
 </div>
 <p>Launch of 6th Geo Connect Asia</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exhibition_tour_2.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AGC_students_3.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AGC_students_2.jpg">
-</div>
+<p>Exhibition tour by GOH</p>
 <p><strong>Panel Discussions</strong>
 </p>
 <p>𝐖𝐡𝐞𝐫𝐞 𝐝𝐨 𝐰𝐞 𝐠𝐨 𝐟𝐫𝐨𝐦 𝐡𝐞𝐫𝐞—𝐚𝐧𝐝 𝐡𝐨𝐰 𝐝𝐨 𝐰𝐞 𝐠𝐞𝐭
