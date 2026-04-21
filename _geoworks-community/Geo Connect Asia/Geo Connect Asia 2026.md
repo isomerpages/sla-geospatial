@@ -41,7 +41,11 @@ together sustainability and smarter urban management.</p>
 <br>🔹 𝐏.𝐀.𝐓.𝐇. (Plastic Assessment Tracking &amp; Hotspots) from the
 Philippines maps how plastic moves through urban waterways, enabling cities
 to act upstream—targeting pollution at its source before it reaches our
-seas.
+seas.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AGC_students_3.jpg">
+</div>
+<p>
 <br>
 <br>These projects serve as a compelling demonstration that geospatial technology
 encompasses not just maps but people, places, and potential. Congratulations
