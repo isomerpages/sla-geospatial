@@ -8,10 +8,10 @@ third_nav_title: Geo Connect Asia
 <p><strong>Geo Connect Asia 2026 Opening</strong>
 </p>
 <p>Gathering government, industry, academia and the community, Geo Connect
-Asia commenced today and established the framework for future developments:
-utilising geospatial technology not merely to comprehend our world, but
-to create improved outcomes for people, particularly in addressing challenges
-surrounding ageing, inclusion and community wellbeing.</p>
+Asia 2026 commenced on 31 March 2026 and established the framework for
+future developments: utilising geospatial technology not merely to comprehend
+our world, but to create improved outcomes for people, particularly in
+addressing challenges surrounding ageing, inclusion and community wellbeing.</p>
 <p>The Guest of Honour, Senior Parliamentary Secretary for the Ministry of
 Law and Ministry of Social and Family Development, Mr Eric Chua, delivered
 the opening address in which he emphasised Singapore's advancement under
