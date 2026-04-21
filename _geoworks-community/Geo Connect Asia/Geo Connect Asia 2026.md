@@ -185,9 +185,17 @@ seamless navigation across diverse environments.
 <p>Beyond today's positioning tools, the conversation focused on the importance
 of live and updated 3D maps. These information-rich maps will be the key
 to unlocking the “last mile” (and last inch) of autonomy, from doorstep
-deliveries to navigating Singapore's vertical cityscape.
-<br>
-<br>
-<br>
-</p>
+deliveries to navigating Singapore's vertical cityscape.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GNSS_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GNSS_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GNSS_3.jpg">
+</div>
+<p></p>
 <p></p>
