@@ -213,7 +213,10 @@ for geospatial data and technology to support a shift towards more preventive,
 place-based, and coordinated action across the socio-healthcare sector.</p>
 <p>A total of 31 senior leaders and domain experts representing government
 agencies, healthcare clusters, social service agencies, non-governmental
-organisations and academia participated in the Roundtable.&nbsp;</p>
+organisations and academia participated in the Roundtable.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RT.jpg">
+</div>
 <p>The Participants also highlighted the importance of developing shared
 geospatial insights on needs, services and community assets to enable earlier
 intervention, better system navigation, and more effective mobilisation
