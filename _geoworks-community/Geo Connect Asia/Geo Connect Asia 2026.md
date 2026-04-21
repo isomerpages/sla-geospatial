@@ -211,8 +211,7 @@ Development and Mr Lim Shung Yar, Chief Executive Officer from National
 Council of Social Service, these conversations underscored the potential
 for geospatial data and technology to support a shift towards more preventive,
 place-based, and coordinated action across the socio-healthcare sector.</p>
-<p>
-<br>A total of 31 senior leaders and domain experts representing government
+<p>A total of 31 senior leaders and domain experts representing government
 agencies, healthcare clusters, social service agencies, non-governmental
 organisations and academia participated in the Roundtable.&nbsp;</p>
 <p>The Participants also highlighted the importance of developing shared
@@ -223,13 +222,11 @@ of community resources.</p>
 a small number of pilot use cases, addressing priority data requirements,
 and exploring suitable data sharing arrangements to support further collaboration
 across agencies and partners in the socio-healthcare ecosystem.</p>
-<p>
-<br>The <strong>Socio-Healthcare Forum</strong> brought together leaders across
+<p>The <strong>Socio-Healthcare Forum</strong> brought together leaders across
 social services, community care and healthcare to share insights and use
 cases, and how can we better identify needs on the ground and respond earlier
 and more effectively.</p>
-<p>
-<br>A key insight emerged: many health and social issues begin developing
+<p>A key insight emerged: many health and social issues begin developing
 long before people reach formal services, shaped by everyday factors like
 mobility, housing quality and social connection.
 <br>
