@@ -114,5 +114,30 @@ environments, consolidating data across land, sea and infrastructure into
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Panel_3.jpg">
 </div>
-<p></p>
+<p><strong>Digital Underground Connect</strong>
+<br>This year's DU Connect demonstrated a fundamental transformation in how
+the industry approaches underground infrastructure data.</p>
+<p>Dependable underground data is no longer regarded as merely desirable,
+and discussions are evolving from 'how do we map it' to 'how do we utilise
+data to inform appropriate decisions'. The sector is advancing rapidly,
+moving beyond basic mapping towards strategic implementation.</p>
+<p>This year's programme covered the following themes:
+<br>
+<br>🤖 Leveraging AI and advanced mapping for next generation infrastructure
+design
+<br>⚠️ Mitigating urban underground risk and building urban resilience
+<br>🗄️ Building a national utility data ecosystem and unlocking benefits
+for the public and private sector
+<br>📱🏗️ Operational resilience for mission-critical assets through digital
+underground twins
+<br>
+<br>The quality and substance of discussions throughout the four sessions
+was particularly notable. Strong storylines emerged, as key themes like
+the importance of addressing underground risk proactively and early in
+project development appeared consistently across presentations from government,
+industry, and academic contributors. This demonstrates a sign of maturing
+field and of the right people being in the room.
+<br>
+<br>
+</p>
 <p></p>
