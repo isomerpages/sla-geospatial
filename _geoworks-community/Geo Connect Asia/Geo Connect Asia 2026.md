@@ -21,7 +21,7 @@ geospatial technology more transformatively throughout society.</p>
 and practical applications. Projects such as the Living Asset Map (LAMP),
 which SLA jointly developed with SingHealth Community Hospitals, are facilitating
 social prescribing by linking seniors to nearby activities and support
-networks, whilst Barrier-Free Access (BFA) routing through OneMap is enhancing
+networks, whilst SLA’s OneMap Barrier-Free Access routing is enhancing
 last-mile accessibility—assisting persons with disabilities to navigate
 Singapore with increased ease and confidence.</p>
 <p>This commitment to meaningful impact was equally apparent in this year's
