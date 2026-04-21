@@ -237,6 +237,5 @@ interventions.</p>
 <p>Whether connecting caregivers to Dementia Go-To Points (GTPs) or improving
 public health planning, service delivery and accessibility, better understanding
 of people and places is creating better results.</p>
-<p>&nbsp;</p>
 <p>When we understand place better, we can act sooner — and care smarter.</p>
 <p></p>
