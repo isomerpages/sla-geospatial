@@ -136,8 +136,9 @@ was particularly notable. Strong storylines emerged, as key themes like
 the importance of addressing underground risk proactively and early in
 project development appeared consistently across presentations from government,
 industry, and academic contributors. This demonstrates a sign of maturing
-field and of the right people being in the room.
-<br>
-<br>
-</p>
+field and of the right people being in the room.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DU_1.jpg">
+</div>
+<p></p>
 <p></p>
