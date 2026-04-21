@@ -88,5 +88,8 @@ sectors where circumstances are perpetually shifting.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Panel_1.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Panel_2.jpg">
+</div>
 <p></p>
 <p></p>
