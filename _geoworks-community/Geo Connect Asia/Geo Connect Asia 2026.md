@@ -19,7 +19,7 @@ the Singapore Geospatial Master Plan—and the emerging frontier of implementing
 geospatial technology more transformatively throughout society.</p>
 <p>This transformation is already materialising through robust partnerships
 and practical applications. Projects such as the Living Asset Map (LAMP),
-jointly developed with SingHealth Community Hospitals, are facilitating
+which SLA jointly developed with SingHealth Community Hospitals, are facilitating
 social prescribing by linking seniors to nearby activities and support
 networks, whilst Barrier-Free Access (BFA) routing through OneMap is enhancing
 last-mile accessibility—assisting persons with disabilities to navigate
