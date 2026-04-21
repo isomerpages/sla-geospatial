@@ -48,7 +48,7 @@ can achieve 👏</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OC_mechanism.jpg">
 </div>
-<p></p>
+<p>Launch of 6th Year Geo Connect Asia</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exhibition_tour_2.jpg">
 </div>
