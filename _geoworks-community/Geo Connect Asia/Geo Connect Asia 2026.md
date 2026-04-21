@@ -196,7 +196,8 @@ deliveries to navigating Singapore's vertical cityscape.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GNSS_3.jpg">
 </div>
-<p><strong>Socio-Healthcare Roundtable and Forum</strong>B</p>
+<p><strong>Socio-Healthcare Roundtable and Forum</strong>
+</p>
 <p>Better healthcare begins in our communities, not in hospitals — it starts
 with the places where people live their daily lives.</p>
 <p>The <strong>Socio-Healthcare Roundtable</strong> explored how geospatial
