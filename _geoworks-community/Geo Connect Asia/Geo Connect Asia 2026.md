@@ -113,7 +113,9 @@ environments, consolidating data across land, sea and infrastructure into
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Panel_3.jpg">
 </div>
 <p><strong>Digital Underground Connect</strong>
-<br>This year's DU Connect demonstrated a fundamental transformation in how
+<br>
+</p>
+<p>This year's DU Connect demonstrated a fundamental transformation in how
 the industry approaches underground infrastructure data.</p>
 <p>Dependable underground data is no longer regarded as merely desirable,
 and discussions are evolving from 'how do we map it' to 'how do we utilise
