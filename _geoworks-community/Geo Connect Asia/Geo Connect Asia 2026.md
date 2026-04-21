@@ -197,5 +197,49 @@ deliveries to navigating Singapore's vertical cityscape.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GNSS_3.jpg">
 </div>
-<p></p>
+<p><strong>Socio-Healthcare Roundtable and Forum</strong>B</p>
+<p>Better healthcare begins in our communities, not in hospitals — it starts
+with the places where people live their daily lives.</p>
+<p>The <strong>Socio-Healthcare Roundtable</strong> explored how geospatial
+technology can support the socio-healthcare sector in preventive interventions
+and other use cases.&nbsp;</p>
+<p>Drawing from the roundtables co-hosted by Ms Yeo Wenshan, Deputy Chief
+Executive (Development) and Mr Benjamin Chan, Assistant Chief Executive
+(Geospatial &amp; Engagement) from Singapore Land Authority, Mr Esa Masood,
+Deputy Secretary (Corporate and Partners) from Ministry of Social and Family
+Development and Mr Lim Shung Yar, Chief Executive Officer from National
+Council of Social Service, these conversations underscored the potential
+for geospatial data and technology to support a shift towards more preventive,
+place-based, and coordinated action across the socio-healthcare sector.</p>
+<p>
+<br>A total of 31 senior leaders and domain experts representing government
+agencies, healthcare clusters, social service agencies, non-governmental
+organisations and academia participated in the Roundtable.&nbsp;</p>
+<p>The Participants also highlighted the importance of developing shared
+geospatial insights on needs, services and community assets to enable earlier
+intervention, better system navigation, and more effective mobilisation
+of community resources.</p>
+<p>Building on the discussion, SLA and MSF would work towards identifying
+a small number of pilot use cases, addressing priority data requirements,
+and exploring suitable data sharing arrangements to support further collaboration
+across agencies and partners in the socio-healthcare ecosystem.</p>
+<p>
+<br>The <strong>Socio-Healthcare Forum</strong> brought together leaders across
+social services, community care and healthcare to share insights and use
+cases, and how can we better identify needs on the ground and respond earlier
+and more effectively.</p>
+<p>
+<br>A key insight emerged: many health and social issues begin developing
+long before people reach formal services, shaped by everyday factors like
+mobility, housing quality and social connection.
+<br>
+<br>Since these challenges are neighbourhood-specific, solutions need to be
+local too. Geospatial data helps by providing clearer pictures of service
+gaps, accessibility and community needs, leading to more focused early
+interventions.</p>
+<p>Whether connecting caregivers to Dementia Go-To Points (GTPs) or improving
+public health planning, service delivery and accessibility, better understanding
+of people and places is creating better results.</p>
+<p>&nbsp;</p>
+<p>When we understand place better, we can act sooner — and care smarter.</p>
 <p></p>
