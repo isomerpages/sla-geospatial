@@ -141,7 +141,6 @@ field and of the right people being in the room.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DU_1.jpg">
 </div>
 <p>Opening by Ms Yeo Wenshan, Deputy Chief Executive (Development), SLA</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DU_3.jpg">
 </div>
@@ -224,10 +223,29 @@ of community resources.</p>
 <p>Building on the discussion, SLA and MSF would work towards identifying
 a small number of pilot use cases, addressing priority data requirements,
 and exploring suitable data sharing arrangements to support further collaboration
-across agencies and partners in the socio-healthcare ecosystem</p>
-<p>.</p>
+across agencies and partners in the socio-healthcare ecosystem.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/RT_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RT_1_A.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RT_1_B.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RT_2_A.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RT_2_B.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RT_2.jpg">
 </div>
 <p>The <strong>Socio-Healthcare Forum</strong> brought together leaders across
 social services, community care and healthcare to share insights and use
@@ -244,5 +262,12 @@ interventions.</p>
 <p>Whether connecting caregivers to Dementia Go-To Points (GTPs) or improving
 public health planning, service delivery and accessibility, better understanding
 of people and places is creating better results.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Forum_1.jpg">
+</div>
+<p>Opening by Mr Calvin Phua, Chief Executive, SLA</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Forum_4.jpg">
+</div>
 <p>When we understand place better, we can act sooner — and care smarter.</p>
 <p></p>
