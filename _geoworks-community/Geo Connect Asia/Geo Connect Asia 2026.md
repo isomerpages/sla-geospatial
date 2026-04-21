@@ -107,5 +107,11 @@ model risk and guide more resilient decision-making.</p>
 <p>Moving forward, the trajectory points towards more integrated and dynamic
 environments, consolidating data across land, sea and infrastructure into
 "live" digital twins.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Panel_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Panel_3.jpg">
+</div>
 <p></p>
 <p></p>
