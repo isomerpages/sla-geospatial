@@ -153,5 +153,41 @@ field and of the right people being in the room.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DU_4.jpg">
 </div>
-<p></p>
+<p><strong>GNSS Asia Executive Circle</strong>
+</p>
+<p>At the SLA-curated GNSS Asia Executive Circle, industry leaders convened
+for an open discussion of implementing positioning technology in the real
+world.
+<br>
+<br>Across transport, delivery, robotics and smart city applications, one
+thing became clear: positioning technology faces its biggest challenge
+in actual use, where signals get cut off, conditions are rough, and circumstances
+are never ideal.
+<br>
+<br>A critical insight emerged from these discussions - precision positioning
+serves as the foundation rather than an optional enhancement. Without dependable
+and accurate location data, sophisticated systems across various applications
+risk complete failure, whether they're detecting road defects across fleets,
+navigating robots through complex spaces, or maintaining accountability
+in high-stakes operations.
+<br>
+</p>
+<p>SLA’s SiReNT was recognised as an essential tool in this ecosystem, providing
+a trusted reference for high-precision GNSS. But just as importantly, the
+conversation acknowledged that GNSS alone is not enough.
+<br>
+<br>As Singapore’s landscape transitions between open areas, dense urban corridors
+and enclosed spaces, the future depends on integrated positioning—where
+GNSS operates in conjunction with LiDAR and additional sensors to enable
+seamless navigation across diverse environments.
+<br>
+</p>
+<p>Beyond today's positioning tools, the conversation focused on the importance
+of live and updated 3D maps. These information-rich maps will be the key
+to unlocking the “last mile” (and last inch) of autonomy, from doorstep
+deliveries to navigating Singapore's vertical cityscape.
+<br>
+<br>
+<br>
+</p>
 <p></p>
