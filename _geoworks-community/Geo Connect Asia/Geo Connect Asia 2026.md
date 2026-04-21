@@ -60,4 +60,32 @@ can achieve 👏</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AGC_students_2.jpg">
 </div>
+<p><strong>Panel Discussions</strong>
+</p>
+<p>𝐖𝐡𝐞𝐫𝐞 𝐝𝐨 𝐰𝐞 𝐠𝐨 𝐟𝐫𝐨𝐦 𝐡𝐞𝐫𝐞—𝐚𝐧𝐝 𝐡𝐨𝐰 𝐝𝐨 𝐰𝐞 𝐠𝐞𝐭
+𝐭𝐡𝐞𝐫𝐞?
+<br>
+<br>Throughout two panel discussions at Geo Connect Asia 2026, the dialogue
+progressed from basic principles to practical implementation—examining
+what geospatial technology truly represents today, and how artificial intelligence
+is influencing future developments.</p>
+<p>During the first panel facilitated by Mr Ng Siau Yong, Director of Geospatial
+Data Division / Chief Data Officer of Singapore Land Authority, alongside
+digital geographer Mr Ed Parsons and Mr David Foo, Deputy Chief Executive
+(Operations &amp; Technology) of Maritime and Port Authority of Singapore,
+a crucial insight surfaced: whilst technology has advanced, the fundamental
+essence remains unchanged. Geospatial technology continues to centre on
+comprehending where elements are positioned, and how they interconnect
+with one another.</p>
+<p>What has transformed is how this information manifests. Maps are no longer
+merely static deliverables—they are evolving into dynamic, real-time resources
+increasingly integrated into our everyday tools. Yet even as they become
+less conspicuous, their significance does not decrease.</p>
+<p>Context, interpretation and dependability continue to rely upon them—particularly
+in more intricate environments, from densely populated cities to maritime
+sectors where circumstances are perpetually shifting.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Panel_1.jpg">
+</div>
 <p></p>
