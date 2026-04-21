@@ -46,7 +46,6 @@ seas.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AGC_students_3.jpg">
 </div>
 <p>
-<br>
 <br>These projects serve as a compelling demonstration that geospatial technology
 encompasses not just maps but people, places, and potential. Congratulations
 to all AGC winners for expanding the horizons of what geospatial technology
