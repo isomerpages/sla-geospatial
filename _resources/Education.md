@@ -48,6 +48,24 @@ developments in GIS and its applications.</p>
 <p>Visit <a href="https://fass.nus.edu.sg/geog/continuing-education-and-training/pc-in-applied-gis/" rel="noopener noreferrer nofollow" target="_blank">https://fass.nus.edu.sg/geog/msc-in-applied-gis/</a> for
 more information</p>
 <p></p>
+<p><strong>National University of Singapore - Bachelor of Science Geospatial Intelligence Cross-Disciplinary Programme (GI-XDP)</strong>
+</p>
+<p>Geospatial Intelligence major, a four-year Bachelor of Science Cross-Disciplinary
+Programme (XDP) by Geography, Faculty of Arts and Social Sciences and School
+of Computing, aims to provide training on spatial knowledge and the data
+collection and analytic skills that offer operational solutions and tangible
+outcomes.</p>
+<p>The program integrates computing skills and geospatial knowledge through
+an interdisciplinary curriculum. It provides comprehensive understanding
+of spatial-oriented issues, and how they are addressed by spatial- and
+computational-thinking and state-of-the-art toolsets, including but not
+limited to geospatial artificial intelligence and geovisualisation. This
+blend equips students with a distinctive skill set in spatial decision
+making, showcasing both technical proficiency and real-world problem-solving
+expertise.</p>
+<p>Visit <a href="https://chs.nus.edu.sg/programmes/gi/" rel="noopener noreferrer nofollow" target="_blank">https://chs.nus.edu.sg/programmes/gi/</a> for
+more information.</p>
+<p></p>
 <p><strong>Singapore Institute of Management - Bachelor of Science (Geographic Information Science) Degree</strong>
 </p>
 <p>The Bachelor of Science (Geographic Information Science) degree, awarded
