@@ -226,10 +226,6 @@ a small number of pilot use cases, addressing priority data requirements,
 and exploring suitable data sharing arrangements to support further collaboration
 across agencies and partners in the socio-healthcare ecosystem.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RT_1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/RT_1_A.jpg">
 </div>
 <p></p>
