@@ -41,8 +41,8 @@ services.</p>
 </li>
 <li>
 <p>Please contact our Quality Service Manager at <a href="mailto:sla_qsm@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sla_qsm@sla.gov.sg</u></a> if you:</p>
-<p>a. have any enquires or feedback on our data protection policies and procedures;
-or</p>
+<p>a. have any enquiries or feedback on our data protection policies and
+procedures; or</p>
 <p>b. need more information on or access to data which you have provided
 to us in the past.</p>
 </li>

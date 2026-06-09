@@ -37,7 +37,7 @@ transform lived experience into shared knowledge, making movement through
 Singapore more predictable, empowering, and inclusive. Each verified route
 brings us closer to a city where everyone can navigate with dignity and
 confidence.</p>
-<p>For any enquiries, please write to: <a href="https://go.gov.sg/bfa-enquires" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/bfa-enquires</a>
+<p>For any enquiries, please write to: <a href="https://go.gov.sg/bfa-enquires" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/bfa-enquiries</a>
 </p>
 <h4><strong>Directory of Family Services</strong></h4>
 <div class="isomer-image-wrapper">
