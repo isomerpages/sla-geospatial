@@ -30,7 +30,7 @@ Coverage will continue to expand as more routes are tested and verified.</p>
 <p><strong>How we can use Barrier Free Routing:</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BFA_Use.jpg">
 </div>
 <p>Accessibility is not one-size-fits-all. SLA’s Barrier-Free Access Routing
 transform lived experience into shared knowledge, making movement through
