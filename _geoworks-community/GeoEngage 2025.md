@@ -22,6 +22,11 @@ in practical, meaningful ways to build stronger, healthier communities.”</p>
 <p>With this inspiring opening message, our Acting Assistant Chief Executive
 (ACE), Mr Benjamin Chan set the stage for two days of learning, sharing,
 and collaboration.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC05770.jpg">
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 632px;" height="auto" width="100%" alt="" src="https://geoworks.sla.gov.sg/images/DSC05655.jpg">
 </div>
