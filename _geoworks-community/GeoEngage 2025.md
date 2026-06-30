@@ -10,6 +10,9 @@ Socio-Healthcare Edition, which brought together over 170 participants
 from government, academia, and the social-healthcare sector to explore
 how geospatial insights can enhance social service delivery and strengthen
 community care.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC05770.jpg">
+</div>
 <p>From the Living Asset Map that supports social prescribing to Barrier-Free
 Access Routing that enables inclusive mobility, this year’s event highlighted
 how geospatial tools can help us plan smarter, connect better, and create
@@ -284,7 +287,7 @@ back at Revenue House.</p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 632px;" height="auto" width="100%" alt="" src="https://geoworks.sla.gov.sg/images/DSC06557.jpg">
 </div>
-<p>By the end of GeoEngage 2025, one thing was clear – geospatial technology
+<p>By the end of Gengage 2025, one thing was clear – geospatial technology
 is not just about data and maps. It’s about improving lives, enabling care,
 and mapping a better future for all.</p>
-<p>Stay tuned for next year’s edition!</p>
+<p>Stay tuned for next year’s editio</p>
