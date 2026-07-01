@@ -290,4 +290,4 @@ back at Revenue House.</p>
 <p>By the end of Gengage 2025, one thing was clear – geospatial technology
 is not just about data and maps. It’s about improving lives, enabling care,
 and mapping a better future for all.</p>
-<p>Stay tuned for next year’s editio</p>
+<p>Stay tuned for next year’s edition!</p>
