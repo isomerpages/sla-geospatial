@@ -2,6 +2,7 @@ collections:
   geoworks-community:
     output: true
     order:
+      - GeoEngage/GeoEngage 2025.md
       - GeoEngage/.keep
       - About GeoWorks Community.md
       - Geo Connect Asia/Geo Connect Asia 2026.md
