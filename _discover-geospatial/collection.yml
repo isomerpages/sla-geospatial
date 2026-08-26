@@ -1,0 +1,7 @@
+collections:
+  discover-geospatial:
+    output: true
+    order:
+      - About Us.md
+      - Singapore Geospatial Master Plan.md
+      - Geospatial Centres.md
